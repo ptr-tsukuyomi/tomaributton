@@ -35,11 +35,13 @@
 <body onload="init()">
 	<div id="app">
 		<el-container>
-			<el-header>
+			<el-header style="height: unset;">
 				<h1>兎鞠まりボタンβ</h1>
 				<p>随時追加予定</p>
+				<p>ちょっとコードを変えたのでもしかしたらiOSでも聞けるかも</p>
+				<p><span style="font-weight: bold;">重要:</span> 不具合の報告は兎鞠まりちゃんご本人ではなく<a href="#contact">下記の連絡先</a>までお願いします。</p>
 			</el-header>
-			<el-main style="margin: 2em 0 0 0;">
+			<el-main>
 				<player ref="player" v-bind:volume="volume"></player>
 				<div v-for="(tracks, category) in categories">
 					<h2>{{ category }}</h2>
@@ -120,7 +122,7 @@
 					</ul>
 				</p>
 				<p>
-					<h2>連絡先</h2>
+					<h2 id="contact">連絡先</h2>
 					苦情・リクエスト等は下記の連絡先まで<br />
 					twitter: <a href="https://twitter.com/160149">@160149</a>
 				</p>
