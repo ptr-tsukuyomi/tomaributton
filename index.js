@@ -18,12 +18,13 @@ Vue.component("player", {
 		play: function (track) {
 			this.$refs.audio.src = "";
 			this.$refs.audio.src = soundRoot + track.path;
+			this.$refs.audio.play();
 		},
 		stop: function () {
 			this.$refs.audio.src = "";
 		}
 	},
-	template: `<audio ref="audio" id="audioplayer" autoplay></audio>`,
+	template: `<audio ref="audio" id="audioplayer"></audio>`,
 });
 
 Vue.component("stop-button", {
