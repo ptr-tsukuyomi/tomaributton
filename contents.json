@@ -1,0 +1,228 @@
+{
+	"soundRoot": "sound/",
+	"tracks": [
+		{
+			"title": "ば～っかにしてんのか～？",
+			"path": "1.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/eZnyVrfNN-w?t=1h45m24s",
+			"relatives": {
+				"twitter": [
+					"https://twitter.com/tomari_mari/status/1035278733152739328"
+				]
+			}
+		},
+		{
+			"title": "じゅうごせんち… きみちっちゃいねえ…",
+			"path": "2.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://www.youtube.com/watch?v=KnhDierZ4Ng&t=818s",
+			"relatives": {
+				"twitter": [
+					"https://twitter.com/nana_nana_ka/status/1037769084207693825"
+				]
+			}
+		},
+		{
+			"title": "じゅうごせんち… ちっちゃいな～…",
+			"path": "6.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/KnhDierZ4Ng?t=18m46s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふん1",
+			"path": "3.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/3frYv1r-SJA?t=51m26s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふんふん1",
+			"path": "5.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/3frYv1r-SJA?t=56m12s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おじさんじゃいっ！",
+			"path": "4.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3frYv1r-SJA?t=53m40s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ぱぱぱぱぱ(ry",
+			"path": "7.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/SXBQFHcWXdg?t=5m40s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "うぃっ",
+			"path": "8.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/SXBQFHcWXdg?t=5m13s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "にん！！",
+			"path": "9.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/SXBQFHcWXdg?t=7m43s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "に゛ーーーーー！",
+			"path": "10.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/Qfv5ozhaFrA?t=18m33s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あのハゲゆるさねえからな",
+			"path": "11.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/Qfv5ozhaFrA?t=40m46s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "寝言は寝て言え～？",
+			"path": "12.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/Qfv5ozhaFrA?t=41m56s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もう一回お腹に戻るか～？",
+			"path": "13.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/Qfv5ozhaFrA?t=45m48s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "えびとんとん",
+			"path": "14.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/Qfv5ozhaFrA?t=1h43m50s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "わぁお！",
+			"path": "15.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/UZ21o5sq5Ns?t=16m48s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばっか♡",
+			"path": "16.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/gRy-oBE_NuU?t=44m23s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "に゛ーーーーん",
+			"path": "17.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/Gw1B--hYVHI?t=50m32s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よいしょっ",
+			"path": "18.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/Gw1B--hYVHI?t=50m53s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "天才",
+			"path": "19.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/Gw1B--hYVHI?t=59m35s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "過呼吸",
+			"path": "20.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/Gw1B--hYVHI?t=59m35s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "バーチャルとしまえんRTA",
+			"path": "21.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/891P4f4T1H4?t=10m41s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "算数やり直そうな～",
+			"path": "22.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/891P4f4T1H4?t=20m18s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "今日のTシャツ",
+			"path": "23.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/891P4f4T1H4?t=21m53s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふん2",
+			"path": "24.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/891P4f4T1H4?t=21m53s",
+			"relatives": {
+			}
+		}
+
+	]
+}

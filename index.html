@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8" />
+	<title>兎鞠まりボタン</title>
+
+	<!-- 開発用 -->
+	<!--<script src="https://unpkg.com/vue"></script> -->
+	<!-- 本番用 -->
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+	<script src="https://unpkg.com/element-ui"></script>
+
+	<script src="./index.js"></script>
+
+	<style type="text/css">
+		@import url("https://unpkg.com/element-ui/lib/theme-chalk/index.css");
+
+		.footer {
+			position: fixed;
+			bottom: 0;
+			right: 0;
+			height: auto;
+			width: auto;
+			margin: 0.5em;
+			/*background-color: lavenderblush;*/
+			background-color: snow;
+			/*border-color: hotpink;*/
+			border-color: lightpink;
+			border-width: medium;
+			border-style: solid;
+		}
+	</style>
+</head>
+<body onload="init()">
+	<div id="app">
+		<el-container>
+			<el-header>
+				<h1>兎鞠まりボタンβ</h1>
+				<p>随時追加予定</p>
+			</el-header>
+			<el-main style="margin: 2em 0 0 0;">
+				<player ref="player" v-bind:volume="volume"></player>
+				<div v-for="(tracks, category) in categories">
+					<h2>{{ category }}</h2>
+					<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" />
+				</div>
+				<hr />
+				<div>
+					<el-row>
+						<el-col :span="12">
+
+						</el-col>
+						<el-col :span="12">
+							<twitter-timeline></twitter-timeline>
+						</el-col>
+					</el-row>
+				</div>
+				<h2></h2>
+			</el-main>
+			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
+				<el-row style="margin: 0.5em;">
+					<el-col :span="24">
+						<div><a v-bind:href="track.source" target="_blank">{{ track.title }}</a></div>
+						<!--<div v-if="track.relatives">
+							<h2>関連項目</h2>
+							<div v-if="track.relatives.twitter">
+								<h3>twitter</h3>
+								<ul>
+									<li v-for="e in track.relatives.twitter"><a v-bind:href="e">{{ e }}</a></li>
+								</ul>
+							</div>
+						</div>-->
+					</el-col>
+				</el-row>
+				<el-row style="margin: 0.5em;">
+					<el-col :span="16">
+						<el-slider v-model="volume" v-bind:min="0.0" v-bind:max="1.0" v-bind:step="0.01"></el-slider>
+					</el-col>
+					<el-col :span="8" style="text-align:center;">
+						<stop-button v-on:stop="stopButtonClicked"></stop-button>
+					</el-col>
+				</el-row>
+			</el-footer>
+		</el-container>
+	</div>
+	<div style="padding: 0 2em;">
+		<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
+			<div style="min-width: 25em; max-width: 40em;">
+				<p>
+					このページは兎鞠まりちゃんの<span style="color: red; font-weight: bold;">非</span>公式ファンサイトです。
+				</p>
+				<p>
+					これらのボタンは<a href="https://www.youtube.com/channel/UCkPIfBOLoO0hVPG-tI2YeGg">兎鞠まりちゃんねる</a>の動画を勝手に切り抜いて作成されました。<br />
+					<span style="color: darkgray">(注: <a href="https://youtu.be/NYR1yiBffHE?t=31m17s">ボタンの作成について</a>)</span>
+				</p>
+				<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-dnt="true" data-show-count="false">Tweet</a>
+				<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				<p>
+					<h2>使い方</h2>
+					<ul>
+						<li>右下のプレイヤーにあるスライダーで音量を調節し、ボタンをクリックして音声を再生します。</li>
+						<li>とめるボタンをクリックすると音声が止まります。</li>
+						<li>タイトル部分をクリックすると音声の切り抜き元の動画に飛びます。</li>
+					</ul>
+				</p>
+				<p>
+					<h2>リンク</h2>
+					<ul>
+						<li><a href="https://www.youtube.com/channel/UCkPIfBOLoO0hVPG-tI2YeGg">兎鞠まりちゃんねる</a></li>
+						<li><a href="https://twitter.com/tomari_mari">兎鞠まりちゃんのtwitter</a></li>
+					</ul>
+				</p>
+				<p>
+					<h2>オマージュ元</h2>
+					<ul>
+						<li><a href="https://rimumaki.clocknote.net/">りむとまきボタン(β)</a></li>
+						<li><a href="http://sanabutton.ojaru.jp/">さなボタン</a></li>
+						<li><a href="http://magurona-button.sakura.ne.jp/">まぐろなボタン</a></li>
+					</ul>
+				</p>
+				<p>
+					<h2>連絡先</h2>
+					苦情・リクエスト等は下記の連絡先まで<br />
+					twitter: <a href="https://twitter.com/160149">@160149</a>
+				</p>
+			</div>
+			<div style="min-width: 25em; max-width: 40em;">
+				<a class="twitter-timeline" data-height="700" data-dnt="true" href="https://twitter.com/tomari_mari?ref_src=twsrc%5Etfw">Tweets by tomari_mari</a>
+				<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
