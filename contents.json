@@ -242,7 +242,7 @@
 			}
 		},
 		{
-			"title": "とまりまり 逆から呼んでも りまりまと",
+			"title": "とまりまり 逆から読んでも りまりまと",
 			"path": "27.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "俳句" ],
@@ -301,6 +301,78 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "話" ],
 			"source": "https://youtu.be/891P4f4T1H4?t=53m57s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "はーい！",
+			"path": "35.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://www.youtube.com/watch?v=qelo8uz-xzk",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ういぃぃ！！",
+			"path": "36.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=50s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もー",
+			"path": "37.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=57s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "悲鳴1",
+			"path": "38.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=57s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "うるせー！！",
+			"path": "39.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=2m28s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "悲鳴2",
+			"path": "40.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=3m04s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "に゛～～！！",
+			"path": "41.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=3m15s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ん゛に゛ぃ～～～～！！！",
+			"path": "42.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=4m29s",
 			"relatives": {
 			}
 		}
