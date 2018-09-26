@@ -375,6 +375,33 @@
 			"source": "https://youtu.be/qelo8uz-xzk?t=4m29s",
 			"relatives": {
 			}
+		},
+		{
+			"title": "あいさつ1",
+			"path": "43.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/i9RbdUr6_tU?t=2m42s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あいさつ2",
+			"path": "44.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/i9RbdUr6_tU?t=2m54s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "にんじんども～",
+			"path": "45.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/i9RbdUr6_tU?t=10m20s",
+			"relatives": {
+			}
 		}
 	]
 }
