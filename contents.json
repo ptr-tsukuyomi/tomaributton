@@ -179,6 +179,33 @@
 			}
 		},
 		{
+			"title": "自己暗示2",
+			"path": "50.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=9m33s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "自己暗示3",
+			"path": "51.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=9m45s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "自己暗示4",
+			"path": "52.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=9m59s",
+			"relatives": {
+			}
+		},
+		{
 			"title": "過呼吸",
 			"path": "20.mp3",
 			"actor": [ "兎鞠まり"],
@@ -341,20 +368,29 @@
 			}
 		},
 		{
-			"title": "うるせー！！",
-			"path": "39.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/qelo8uz-xzk?t=2m28s",
-			"relatives": {
-			}
-		},
-		{
 			"title": "悲鳴2",
 			"path": "40.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/qelo8uz-xzk?t=3m04s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "悲鳴3",
+			"path": "55.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=14m32s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "うるせー！！",
+			"path": "39.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=2m28s",
 			"relatives": {
 			}
 		},
@@ -440,33 +476,6 @@
 			}
 		},
 		{
-			"title": "自己暗示2",
-			"path": "50.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/zRptWnFy9g8?t=9m33s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "自己暗示3",
-			"path": "51.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/zRptWnFy9g8?t=9m45s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "自己暗示4",
-			"path": "52.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/zRptWnFy9g8?t=9m59s",
-			"relatives": {
-			}
-		},
-		{
 			"title": "もつだー",
 			"path": "53.mp3",
 			"actor": [ "兎鞠まり"],
@@ -481,15 +490,6 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/zRptWnFy9g8?t=13m18s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "悲鳴3",
-			"path": "55.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/zRptWnFy9g8?t=14m32s",
 			"relatives": {
 			}
 		}
