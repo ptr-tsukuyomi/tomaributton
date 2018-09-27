@@ -170,7 +170,7 @@
 			}
 		},
 		{
-			"title": "天才",
+			"title": "自己暗示1",
 			"path": "19.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
@@ -409,6 +409,87 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/Fi1Ikdg_sl8?t=10m41s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "忘れろビーム",
+			"path": "47.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=6m30s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "みんみんみんみん",
+			"path": "48.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=7m49s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "にんにん1",
+			"path": "49.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=9m27s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "自己暗示2",
+			"path": "50.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=9m33s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "自己暗示3",
+			"path": "51.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=9m45s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "自己暗示4",
+			"path": "52.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=9m59s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もつだー",
+			"path": "53.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=13m2s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "これは勝ち申したな～",
+			"path": "54.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=13m18s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "悲鳴3",
+			"path": "55.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/zRptWnFy9g8?t=14m32s",
 			"relatives": {
 			}
 		}
