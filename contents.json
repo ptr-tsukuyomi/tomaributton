@@ -98,6 +98,33 @@
 			}
 		},
 		{
+			"title": "に゛ーーーーん",
+			"path": "17.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/Gw1B--hYVHI?t=50m32s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "に゛～～！！",
+			"path": "41.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=3m15s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ん゛に゛ぃ～～～～！！！",
+			"path": "42.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/qelo8uz-xzk?t=4m29s",
+			"relatives": {
+			}
+		},
+		{
 			"title": "あのハゲゆるさねえからな",
 			"path": "11.mp3",
 			"actor": [ "兎鞠まり"],
@@ -148,15 +175,6 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/gRy-oBE_NuU?t=44m23s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "に゛ーーーーん",
-			"path": "17.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/Gw1B--hYVHI?t=50m32s",
 			"relatives": {
 			}
 		},
@@ -386,29 +404,20 @@
 			}
 		},
 		{
+			"title": "悲鳴4",
+			"path": "57.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/MvLPoUUpVQw?t=18m35s",
+			"relatives": {
+			}
+		},
+		{
 			"title": "うるせー！！",
 			"path": "39.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/qelo8uz-xzk?t=2m28s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "に゛～～！！",
-			"path": "41.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/qelo8uz-xzk?t=3m15s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "ん゛に゛ぃ～～～～！！！",
-			"path": "42.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/qelo8uz-xzk?t=4m29s",
 			"relatives": {
 			}
 		},
@@ -490,6 +499,15 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/zRptWnFy9g8?t=13m18s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あかないやんけ！",
+			"path": "56.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/MvLPoUUpVQw?t=13m13s",
 			"relatives": {
 			}
 		}
