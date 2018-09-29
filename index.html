@@ -2,6 +2,8 @@
 <html lang="ja">
 <head>
 	<meta charset="utf-8" />
+	<link rel="icon" href="/favicon.png" />
+
 	<title>兎鞠まりボタン</title>
 
 	<!-- 開発用 -->
@@ -41,20 +43,9 @@
 				<player ref="player" v-bind:volume="volume"></player>
 				<div v-for="(tracks, category) in categories">
 					<h2>{{ category }}</h2>
-					<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" />
+					<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" style="margin: 0.25em;" />
 				</div>
 				<hr />
-				<div>
-					<el-row>
-						<el-col :span="12">
-
-						</el-col>
-						<el-col :span="12">
-							<twitter-timeline></twitter-timeline>
-						</el-col>
-					</el-row>
-				</div>
-				<h2></h2>
 			</el-main>
 			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
 				<el-row style="margin: 0.5em;">
