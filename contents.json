@@ -413,6 +413,15 @@
 			}
 		},
 		{
+			"title": "悲鳴5",
+			"path": "72.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=21m37s",
+			"relatives": {
+			}
+		},
+		{
 			"title": "うるせー！！",
 			"path": "39.mp3",
 			"actor": [ "兎鞠まり"],
@@ -616,6 +625,114 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=1h8m20s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "話し合えばわかる",
+			"path": "70.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=14m57s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "勝ち煽り",
+			"path": "71.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=15m40s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふーーん",
+			"path": "73.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=25m09s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふん2",
+			"path": "74.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=25m09s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ほいっ",
+			"path": "75.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=27m09s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ぴっ",
+			"path": "76.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=27m25s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "達人",
+			"path": "77.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=27m25s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ハラキリ！",
+			"path": "78.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=28m08s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "台本通りにやってって言ったでしょー",
+			"path": "79.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=29m35s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ゆるさねえからなー",
+			"path": "80.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=29m48s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "わ゛んちゃん",
+			"path": "81.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=30m19s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おはようごじゃいまーしゅ",
+			"path": "82.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=35m18s",
 			"relatives": {
 			}
 		}
