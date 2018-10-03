@@ -35,15 +35,6 @@
 			}
 		},
 		{
-			"title": "ふんふんふんふん1",
-			"path": "3.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "相槌" ],
-			"source": "https://youtu.be/3frYv1r-SJA?t=51m26s",
-			"relatives": {
-			}
-		},
-		{
 			"title": "ふんふんふんふんふん1",
 			"path": "5.mp3",
 			"actor": [ "兎鞠まり"],
@@ -260,11 +251,38 @@
 			}
 		},
 		{
+			"title": "ふんふんふんふん1",
+			"path": "3.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/3frYv1r-SJA?t=51m26s",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ふんふんふんふん2",
 			"path": "24.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "相槌" ],
 			"source": "https://youtu.be/891P4f4T1H4?t=21m53s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふん3",
+			"path": "74.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/zeE2g6YpGPg?t=25m09s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふん4",
+			"path": "83.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/Y0PuBEnvyLU?t=1m22s",
 			"relatives": {
 			}
 		},
@@ -656,15 +674,6 @@
 			}
 		},
 		{
-			"title": "ふんふんふんふん2",
-			"path": "74.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "相槌" ],
-			"source": "https://youtu.be/zeE2g6YpGPg?t=25m09s",
-			"relatives": {
-			}
-		},
-		{
 			"title": "ほいっ",
 			"path": "75.mp3",
 			"actor": [ "兎鞠まり"],
@@ -737,15 +746,6 @@
 			}
 		},
 		{
-			"title": "ふんふんふんふん3",
-			"path": "83.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "相槌" ],
-			"source": "https://youtu.be/Y0PuBEnvyLU?t=1m22s",
-			"relatives": {
-			}
-		},
-		{
 			"title": "余ーだよっ",
 			"path": "84.mp3",
 			"actor": [ "兎鞠まり"],
@@ -796,6 +796,51 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/Y0PuBEnvyLU?t=1h09m00s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "わたパチ",
+			"path": "90.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/X2wn7rv4fP4?t=14m47s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おっさんやぞー",
+			"path": "91.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/X2wn7rv4fP4?t=34m31s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "マ～？",
+			"path": "92.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/X2wn7rv4fP4?t=54m48s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ｵﾎｰ!",
+			"path": "93.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/X2wn7rv4fP4?t=59m45s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ﾄﾞﾔｰ",
+			"path": "94.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/X2wn7rv4fP4?t=1h4m50s",
 			"relatives": {
 			}
 		}
