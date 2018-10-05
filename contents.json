@@ -332,6 +332,33 @@
 			}
 		},
 		{
+			"title": "ふんふんふんふんじゃないんだよ！",
+			"path": "95.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=1240",
+			"relatives": {
+			}
+		},
+		{
+			"title": "や！じゃないんだよぅ",
+			"path": "66.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3frYv1r-SJA?t=1h6m21s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おじさんじゃないんだよー！",
+			"path": "99.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=2819",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ママ友",
 			"path": "30.mp3",
 			"actor": [ "兎鞠まり"],
@@ -512,6 +539,15 @@
 			}
 		},
 		{
+			"title": "にんにん2",
+			"path": "105.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=4080",
+			"relatives": {
+			}
+		},
+		{
 			"title": "もつだー",
 			"path": "53.mp3",
 			"actor": [ "兎鞠まり"],
@@ -584,11 +620,29 @@
 			}
 		},
 		{
-			"title": "ばかにしてんのかー？",
+			"title": "ばかにしてんのかー？1",
 			"path": "63.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "威嚇" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=55m50s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばかにしてんのかー？2",
+			"path": "96.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=1240",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばかにしてんのかー？3",
+			"path": "106.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=4482",
 			"relatives": {
 			}
 		},
@@ -607,15 +661,6 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "話" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=58m22s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "や！じゃないんだよぅ",
-			"path": "66.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/3frYv1r-SJA?t=1h6m21s",
 			"relatives": {
 			}
 		},
@@ -841,6 +886,69 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/X2wn7rv4fP4?t=1h4m50s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "かわいかろー？",
+			"path": "97.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=1323",
+			"relatives": {
+			}
+		},
+		{
+			"title": "🐬",
+			"path": "98.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=2078",
+			"relatives": {
+			}
+		},
+		{
+			"title": "えっ？",
+			"path": "100.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=2858",
+			"relatives": {
+			}
+		},
+		{
+			"title": "はい次",
+			"path": "101.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=2860",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おあめ",
+			"path": "102.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=2981",
+			"relatives": {
+			}
+		},
+		{
+			"title": "10000に゛ん！",
+			"path": "103.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=3484",
+			"relatives": {
+			}
+		},
+		{
+			"title": "20000に゛ん！",
+			"path": "104.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/g_fXfZF7GOU?t=3484",
 			"relatives": {
 			}
 		}
