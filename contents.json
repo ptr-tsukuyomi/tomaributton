@@ -326,7 +326,7 @@
 			"title": "「すこだ」じゃないんだよな～",
 			"path": "29.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "〇〇〇じゃないんだよ" ],
 			"source": "https://youtu.be/891P4f4T1H4?t=33m4s",
 			"relatives": {
 			}
@@ -335,7 +335,7 @@
 			"title": "ふんふんふんふんじゃないんだよ！",
 			"path": "95.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "〇〇〇じゃないんだよ" ],
 			"source": "https://youtu.be/g_fXfZF7GOU?t=1240",
 			"relatives": {
 			}
@@ -344,7 +344,7 @@
 			"title": "や！じゃないんだよぅ",
 			"path": "66.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "〇〇〇じゃないんだよ" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=1h6m21s",
 			"relatives": {
 			}
@@ -353,8 +353,17 @@
 			"title": "おじさんじゃないんだよー！",
 			"path": "99.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "〇〇〇じゃないんだよ" ],
 			"source": "https://youtu.be/g_fXfZF7GOU?t=2819",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もじゃんじゃないんだよ！",
+			"path": "112.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "〇〇〇じゃないんだよ" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2240",
 			"relatives": {
 			}
 		},
@@ -479,7 +488,7 @@
 			"title": "あいさつ1",
 			"path": "43.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "あいさつ" ],
 			"source": "https://youtu.be/i9RbdUr6_tU?t=2m42s",
 			"relatives": {
 			}
@@ -488,7 +497,7 @@
 			"title": "あいさつ2",
 			"path": "44.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "あいさつ" ],
 			"source": "https://youtu.be/i9RbdUr6_tU?t=2m54s",
 			"relatives": {
 			}
@@ -677,7 +686,7 @@
 			"title": "おやすみなさーい",
 			"path": "68.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "あいさつ" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=1h8m20s",
 			"relatives": {
 			}
@@ -686,7 +695,7 @@
 			"title": "まったねー",
 			"path": "69.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "あいさつ" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=1h8m20s",
 			"relatives": {
 			}
@@ -785,7 +794,7 @@
 			"title": "おはようごじゃいまーしゅ",
 			"path": "82.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "あいさつ" ],
 			"source": "https://youtu.be/zeE2g6YpGPg?t=35m18s",
 			"relatives": {
 			}
@@ -949,6 +958,123 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/g_fXfZF7GOU?t=3484",
+			"relatives": {
+			}
+		},
+		{
+			"title": "イキリバイク1",
+			"path": "107.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=1976",
+			"relatives": {
+			}
+		},
+		{
+			"title": "勝利",
+			"path": "108.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=1976",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ウインク",
+			"path": "109.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2082",
+			"relatives": {
+			}
+		},
+		{
+			"title": "イキリバイク2",
+			"path": "110.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2145",
+			"relatives": {
+			}
+		},
+		{
+			"title": "引き分け",
+			"path": "111.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2145",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばーっかにしてんのかー？",
+			"path": "113.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2240",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おハーブ生える",
+			"path": "114.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "清楚" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2276",
+			"relatives": {
+			}
+		},
+		{
+			"title": "尻もち",
+			"path": "115.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2350",
+			"relatives": {
+			}
+		},
+		{
+			"title": "聞いて",
+			"path": "116.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あのやろう",
+			"path": "117.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おキレあそばせる",
+			"path": "118.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "清楚" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おハーブ生え散らかす",
+			"path": "119.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "清楚" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
+			"relatives": {
+			}
+		},
+		{
+			"title": "🐱",
+			"path": "120.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
 			"relatives": {
 			}
 		}
