@@ -632,7 +632,7 @@
 			"title": "ばかにしてんのかー？1",
 			"path": "63.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "威嚇" ],
+			"tags": [ "威嚇", "〇〇〇じゃないんだよ" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=55m50s",
 			"relatives": {
 			}
@@ -650,7 +650,7 @@
 			"title": "ばかにしてんのかー？3",
 			"path": "106.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "威嚇" ],
+			"tags": [ "威嚇", "〇〇〇じゃないんだよ" ],
 			"source": "https://youtu.be/g_fXfZF7GOU?t=4482",
 			"relatives": {
 			}
@@ -908,11 +908,20 @@
 			}
 		},
 		{
-			"title": "🐬",
+			"title": "🐬1",
 			"path": "98.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
+			"tags": [ "音" ],
 			"source": "https://youtu.be/g_fXfZF7GOU?t=2078",
+			"relatives": {
+			}
+		},
+		{
+			"title": "🐬2",
+			"path": "124.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2805",
 			"relatives": {
 			}
 		},
@@ -1007,11 +1016,20 @@
 			}
 		},
 		{
-			"title": "ばーっかにしてんのかー？",
+			"title": "ばーっかにしてんのかー？1",
 			"path": "113.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "威嚇" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=2240",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばーっかにしてんのかー？2",
+			"path": "125.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2873",
 			"relatives": {
 			}
 		},
@@ -1075,6 +1093,87 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "威嚇" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おしとやか",
+			"path": "121.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "清楚" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2759",
+			"relatives": {
+			}
+		},
+		{
+			"title": "お上品",
+			"path": "122.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "清楚" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2768",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あらごきげんよう",
+			"path": "123.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2791",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あれよ！・・・どれよ…？",
+			"path": "126.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=2994",
+			"relatives": {
+			}
+		},
+		{
+			"title": "こいつ・・・ゆるさねぇ・・・",
+			"path": "127.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3044",
+			"relatives": {
+			}
+		},
+		{
+			"title": "や！",
+			"path": "128.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3241",
+			"relatives": {
+			}
+		},
+		{
+			"title": "や！じゃないんだよぅ",
+			"path": "129.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "〇〇〇じゃないんだよ" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3241",
+			"relatives": {
+			}
+		},
+		{
+			"title": "でしょでしょ",
+			"path": "130.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3320",
+			"relatives": {
+			}
+		},
+		{
+			"title": "都合の悪い言葉は見えないので",
+			"path": "131.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3320",
 			"relatives": {
 			}
 		}
