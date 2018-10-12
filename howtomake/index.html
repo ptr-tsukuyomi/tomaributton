@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8" />
+	<title>ボタンの構成と作り方</title>
+</head>
+<body>
+	<h1>ボタンの構成と作り方</h1>
+	<div style="max-width: 50em;">
+		<p>
+			ボタンを作りたいという人に向けた文書です。
+			「ボタンの構成」で述べるファイルのうち、☆が付いているもの(自分が作ったもの)関しては<a href="http://www.kmonos.net/nysl/">NYSL</a>を適用しますので、改造してボタンを作ってみてください。
+		</p>
+
+		<h2>ボタンの構成</h2>
+		<p>
+			兎鞠まりボタンは以下のファイルから構成されています。
+			音声ファイル以外はすべてテキストエディタで編集できます。
+		</p>
+		<h3><a href="/index.html">index.html</a> ☆</h3>
+		<p>ページ本体です。ボタンやプレイヤーのテンプレートが入っています。</p>
+		<h3><a href="/index.js">index.js</a> ☆</h3>
+		<p>コンテンツを取得してページにボタンを配置するプログラムが入っています。</p>
+		<h3><a href="/contents.json">contents.json</a> ☆</h3>
+		<p>
+			音声データのファイル名とボタン名を対応付けるデータが入っています。
+			contents.jsonはsoundRootとtracksから構成されています。
+			下図の薄く黄色にした部分がボタン一つ分に対応します。
+		</p>
+		<img src="./contents-json-structure.png" style="width: 40em;" />
+		<h4>soundRoot</h4>
+		<p>
+			音声ファイルのあるディレクトリの位置を指定します。
+			index.htmlのあるディレクトリからの相対パス、および、絶対パスを使用することができます。
+		</p>
+		<h4>tracks</h4>
+		<p>
+			ボタンごとの、タイトルと音声ファイルのパス、そして、メタデータが含まれています。
+			各項目とその説明を以下に示します。
+			<table border="1">
+				<tbody>
+					<tr>
+						<th>項目名</th>
+						<th>説明</th>
+					</tr>
+					<tr>
+						<td>title</td>
+						<td>タイトルです。ボタンに表示されます。</td>
+					</tr>
+					<tr>
+						<td>path</td>
+						<td>音声ファイルのパスです。soundRootからの相対パスを指定します。</td>
+					</tr>
+					<tr>
+						<td>actor</td>
+						<td>誰の声が入っているのかを記述します。現在は使用していません。</td>
+					</tr>
+					<tr>
+						<td>tags</td>
+						<td>
+							ボタンに付けられたタグです。
+							複数のタグを付けられますが、最初のタグはカテゴリになります。
+							現在はカテゴリの指定のためにのみ用いられています。
+						</td>
+					</tr>
+					<tr>
+						<td>source</td>
+						<td>
+							音声のソースです。
+							プレイヤーに表示されるタイトルの部分をクリックしたときにどこに飛ぶのかを指定できます。
+						</td>
+					</tr>
+					<tr>
+						<td>relatives</td>
+						<td>関連項目です。現在は使用していません。</td>
+					</tr>
+				</tbody>
+			</table>
+		</p>
+
+
+		<h3>favicon.png</h3>
+		<p>Webサイトのアイコンです。「いらすとや」さんの画像を使用しています。
+		なくてもいいです。</p>
+		<h3>音声ファイル</h3>
+		<p>mp3です。/sound の下に入っています。</p>
+
+		<h2>ボタンの作り方</h2>
+		<p>
+			音声ファイル(とfavicon.png)を用意し、index.htmlとcontents.jsonを改造することで別のボタンを作ることができます。
+			あとは改造したindex.htmlとindex.jsとcontents.jsonと音声ファイルをどこかにアップロードすればOKです。
+		</p>
+		<h3>音声ファイル</h3>
+		<p>頑張って用意してください。</p>
+		<h3>index.html</h3>
+		<p>
+			titleタグとh1タグとボタンの説明を行っているdivタグ(下部)の中身を書き換えてください。
+			twitterの埋め込みウィジェットのscreen_nameの書き換えも忘れずに。
+		</p>
+		<h3>contents.json</h3>
+		<p>
+			<h4>tracks</h4>
+			音声ファイルの場所に合わせて適切に指定してください。
+		</p>
+		<p>
+			<h4>tracks</h4>
+			必ず埋めないといけないものはtitleとpathとtagsです。
+			sourceは埋めても埋めなくてもいいですが、埋めるとボタンを押した人が元の動画にたどり着きやすくなります。
+			actorとrelativesは埋めても現状意味はありません。
+		</p>
+	</div>
+	
+</body>
+</html>
