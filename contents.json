@@ -341,7 +341,7 @@
 			}
 		},
 		{
-			"title": "や！じゃないんだよぅ",
+			"title": "や！じゃないんだよぅ1",
 			"path": "66.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "〇〇〇じゃないんだよ" ],
@@ -1034,6 +1034,15 @@
 			}
 		},
 		{
+			"title": "ばーっかにしてんのかー？3",
+			"path": "140.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=4356",
+			"relatives": {
+			}
+		},
+		{
 			"title": "おハーブ生える",
 			"path": "114.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1151,7 +1160,7 @@
 			}
 		},
 		{
-			"title": "や！じゃないんだよぅ",
+			"title": "や！じゃないんだよぅ2",
 			"path": "129.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "〇〇〇じゃないんだよ" ],
@@ -1241,19 +1250,10 @@
 			}
 		},
 		{
-			"title": "ばーっかにしてんのかー？3",
-			"path": "140.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "威嚇" ],
-			"source": "https://youtu.be/tJIjcwtUD9Y?t=4356",
-			"relatives": {
-			}
-		},
-		{
 			"title": "や！じゃないんだよ2",
 			"path": "141.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "威嚇" ],
+			"tags": [ "〇〇〇じゃないんだよ" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=4900",
 			"relatives": {
 			}
@@ -1280,7 +1280,7 @@
 			"title": "おつかれですわぞ～",
 			"path": "144.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "あいさつ" ],
+			"tags": [ "清楚" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=4983",
 			"relatives": {
 			}
