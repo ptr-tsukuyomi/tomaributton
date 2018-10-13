@@ -899,7 +899,7 @@
 			}
 		},
 		{
-			"title": "かわいかろー？",
+			"title": "かわいかろー？1",
 			"path": "97.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
@@ -1079,7 +1079,7 @@
 			}
 		},
 		{
-			"title": "おハーブ生え散らかす",
+			"title": "おハーブ生え散らかす1",
 			"path": "119.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "清楚" ],
@@ -1174,6 +1174,114 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=3320",
+			"relatives": {
+			}
+		},
+		{
+			"title": "や！じゃないんだよ1",
+			"path": "133.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "〇〇〇じゃないんだよ" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3578",
+			"relatives": {
+			}
+		},
+		{
+			"title": "マリニウム光線",
+			"path": "134.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3662",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おハーブ生え散らかす2",
+			"path": "135.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "清楚" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3691",
+			"relatives": {
+			}
+		},
+		{
+			"title": "クソ雑魚",
+			"path": "136.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3766",
+			"relatives": {
+			}
+		},
+		{
+			"title": "雑魚",
+			"path": "137.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3766",
+			"relatives": {
+			}
+		},
+		{
+			"title": "超清楚でキュートでベリベリキュート",
+			"path": "138.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3856",
+			"relatives": {
+			}
+		},
+		{
+			"title": "わんちゃん！",
+			"path": "139.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=3930",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばーっかにしてんのかー？3",
+			"path": "140.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=4356",
+			"relatives": {
+			}
+		},
+		{
+			"title": "や！じゃないんだよ2",
+			"path": "141.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=4900",
+			"relatives": {
+			}
+		},
+		{
+			"title": "にんじんども、ごきげんよう",
+			"path": "142.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=4903",
+			"relatives": {
+			}
+		},
+		{
+			"title": "にんじんさん、ごきげんよう",
+			"path": "143.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=4954",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おつかれですわぞ～",
+			"path": "144.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/tJIjcwtUD9Y?t=4983",
 			"relatives": {
 			}
 		}
