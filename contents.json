@@ -656,6 +656,15 @@
 			}
 		},
 		{
+			"title": "ばかにしてんのかー？4",
+			"path": "145.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "威嚇" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=1439",
+			"relatives": {
+			}
+		},
+		{
 			"title": "女児化1",
 			"path": "64.mp3",
 			"actor": [ "兎鞠まり"],
@@ -881,11 +890,20 @@
 			}
 		},
 		{
-			"title": "ｵﾎｰ!",
+			"title": "ｵﾎｰ!1",
 			"path": "93.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/X2wn7rv4fP4?t=59m45s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ｵﾎｰ!2",
+			"path": "146.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=3162",
 			"relatives": {
 			}
 		},
@@ -1282,6 +1300,24 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "清楚" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=4983",
+			"relatives": {
+			}
+		},
+		{
+			"title": "大丈夫？",
+			"path": "147.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=3230",
+			"relatives": {
+			}
+		},
+		{
+			"title": "いってきまーしゅ",
+			"path": "148.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=3307",
 			"relatives": {
 			}
 		}
