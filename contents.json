@@ -1034,6 +1034,15 @@
 			}
 		},
 		{
+			"title": "敗北",
+			"path": "151.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=5812",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ばーっかにしてんのかー？1",
 			"path": "113.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1318,6 +1327,42 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/LOIRhT3V5dA?t=3307",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ちょっと待って",
+			"path": "149.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=5179",
+			"relatives": {
+			}
+		},
+		{
+			"title": "下からエイリアンみたいなの漏れてる",
+			"path": "150.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=5311",
+			"relatives": {
+			}
+		},
+		{
+			"title": "やらかした～",
+			"path": "152.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=5904",
+			"relatives": {
+			}
+		},
+		{
+			"title": "負けねえからな～",
+			"path": "153.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/LOIRhT3V5dA?t=5944",
 			"relatives": {
 			}
 		}
