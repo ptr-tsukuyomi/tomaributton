@@ -1365,6 +1365,42 @@
 			"source": "https://youtu.be/LOIRhT3V5dA?t=5944",
 			"relatives": {
 			}
+		},
+		{
+			"title": "こしょこしょ",
+			"path": "154.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://youtu.be/NYR1yiBffHE?t=1265",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふー",
+			"path": "155.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://youtu.be/NYR1yiBffHE?t=1274",
+			"relatives": {
+			}
+		},
+		{
+			"title": "心音1",
+			"path": "156.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://youtu.be/NYR1yiBffHE?t=1469",
+			"relatives": {
+			}
+		},
+		{
+			"title": "心音2",
+			"path": "157.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://youtu.be/NYR1yiBffHE?t=1469",
+			"relatives": {
+			}
 		}
 	]
 }
