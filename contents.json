@@ -1376,7 +1376,7 @@
 			}
 		},
 		{
-			"title": "ふー",
+			"title": "耳ふー1",
 			"path": "155.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "バイノーラル" ],
@@ -1399,6 +1399,96 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "バイノーラル" ],
 			"source": "https://youtu.be/NYR1yiBffHE?t=1469",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おあめ2",
+			"path": "158.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=1932s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "バイノーラルおあめ",
+			"path": "158.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=1932s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "耳ふー2",
+			"path": "159.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=2145s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "左右からばーっかにしてんのかー？",
+			"path": "160.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "威嚇" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=2260s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "左右からばーっかにしてんのかー？(小声)",
+			"path": "161.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "威嚇" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=2260s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "マシュマロ",
+			"path": "162.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=2476s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "甘やかし",
+			"path": "163.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=2767s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よしよし",
+			"path": "164.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=3226s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "とまりまり ああとまりまり とまりまり",
+			"path": "165.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "俳句", "バイノーラル" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=3408s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "とまりの方が上手",
+			"path": "166.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=3483s",
 			"relatives": {
 			}
 		}
