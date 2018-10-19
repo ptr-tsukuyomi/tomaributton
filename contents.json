@@ -1250,7 +1250,7 @@
 			}
 		},
 		{
-			"title": "雑魚",
+			"title": "ざ～こ♡",
 			"path": "137.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
@@ -1480,6 +1480,60 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "バイノーラル", "言葉" ],
 			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=3483s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "熱中症",
+			"path": "167.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=3930s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "耳かきしながらカリカリこしょこしょ(耳ふー付き)",
+			"path": "168.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "音" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=3985s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "本当にいいの？おじさんやぞ？…すき。",
+			"path": "169.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "音" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=4072s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "舌足らず",
+			"path": "170.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "話", "バイノーラル" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=4110s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ひもQおねだり",
+			"path": "171.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=4345s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "耳ふー3",
+			"path": "172.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=4554s",
 			"relatives": {
 			}
 		}
