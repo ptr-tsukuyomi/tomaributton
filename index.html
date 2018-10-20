@@ -42,9 +42,13 @@
 	<div id="app">
 		<el-container>
 			<el-header style="height: unset;">
-
+				<h2>お知らせ</h2>
+				<p>
+					イベント情報: 10/31(水) <a href="https://twitter.com/tomari_mari/status/1053664055666270210">バ美肉ナイトクラブ in 渋谷</a>
+				</p>
 			</el-header>
 			<el-main>
+				<hr />
 				<player ref="player" v-bind:volume="volume"></player>
 				<div v-for="(tracks, category) in categories">
 					<h2>{{ category }}</h2>
