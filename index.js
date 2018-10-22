@@ -57,6 +57,7 @@ async function init() {
 	let categories = {};
 	for (let e of trackdata.tracks) {
 		let category = e.tags[0];
+		if (category == "その他") continue;
 		if (categories[category] == undefined) {
 			categories[category] = [];
 		}
