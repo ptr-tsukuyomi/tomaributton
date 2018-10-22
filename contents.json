@@ -287,6 +287,15 @@
 			}
 		},
 		{
+			"title": "ふんふんふんふん5",
+			"path": "178.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=484",
+			"relatives": {
+			}
+		},
+		{
 			"title": "1000人でひもQ",
 			"path": "25.mp3",
 			"actor": [ "兎鞠まり"],
@@ -908,6 +917,15 @@
 			}
 		},
 		{
+			"title": "ｵﾎｰ!3",
+			"path": "183.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1121",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ﾄﾞﾔｰ",
 			"path": "94.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1385,6 +1403,24 @@
 			}
 		},
 		{
+			"title": "耳ふー2",
+			"path": "159.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=2145s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "耳ふー3",
+			"path": "172.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=4554s",
+			"relatives": {
+			}
+		},
+		{
 			"title": "心音1",
 			"path": "156.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1408,15 +1444,6 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "バイノーラル" ],
 			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=1932s",
-			"relatives": {
-			}
-		},
-		{
-			"title": "耳ふー2",
-			"path": "159.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "バイノーラル" ],
-			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=2145s",
 			"relatives": {
 			}
 		},
@@ -1529,11 +1556,101 @@
 			}
 		},
 		{
-			"title": "耳ふー3",
-			"path": "172.mp3",
+			"title": "ダメージ1",
+			"path": "173.mp3",
 			"actor": [ "兎鞠まり"],
-			"tags": [ "バイノーラル", "言葉" ],
-			"source": "https://www.youtube.com/watch?v=NYR1yiBffHE&t=4554s",
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=361",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ダメージ2",
+			"path": "177.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=410",
+			"relatives": {
+			}
+		},
+		{
+			"title": "はーいこんばんはー",
+			"path": "174.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=383",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よいしょ×3",
+			"path": "175.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=384",
+			"relatives": {
+			}
+		},
+		{
+			"title": "そう",
+			"path": "176.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "その他" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=384",
+			"relatives": {
+			}
+		},
+		{
+			"title": "回避",
+			"path": "179.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=489",
+			"relatives": {
+			}
+		},
+		{
+			"title": "お待たせしました",
+			"path": "180.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=536",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よしよしよし",
+			"path": "181.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=539",
+			"relatives": {
+			}
+		},
+		{
+			"title": "やりますよ～",
+			"path": "182.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=539",
+			"relatives": {
+			}
+		},
+		{
+			"title": "カニ！",
+			"path": "184.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1131",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ごり押し",
+			"path": "185.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1166",
 			"relatives": {
 			}
 		}
