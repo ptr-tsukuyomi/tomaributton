@@ -1574,6 +1574,15 @@
 			}
 		},
 		{
+			"title": "ダメージ3",
+			"path": "188.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1393",
+			"relatives": {
+			}
+		},
+		{
 			"title": "はーいこんばんはー",
 			"path": "174.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1651,6 +1660,78 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1166",
+			"relatives": {
+			}
+		},
+		{
+			"title": "のどシュッシュ",
+			"path": "186.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1181",
+			"relatives": {
+			}
+		},
+		{
+			"title": "笑い声1",
+			"path": "187.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1375",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふんふんふんじゃないんだよ",
+			"path": "189.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "〇〇〇じゃないんだよ" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1451",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ｳｻｷﾞｶﾞﾆｹﾞﾃﾙ!",
+			"path": "190.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1465",
+			"relatives": {
+			}
+		},
+		{
+			"title": "耳鼻科行くかー？",
+			"path": "191.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1925",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ほいっ×7",
+			"path": "192.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2172",
+			"relatives": {
+			}
+		},
+		{
+			"title": "なんだこのおっさん",
+			"path": "193.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2242",
+			"relatives": {
+			}
+		},
+		{
+			"title": "やったー！",
+			"path": "194.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2474",
 			"relatives": {
 			}
 		}
