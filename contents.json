@@ -215,11 +215,20 @@
 			}
 		},
 		{
-			"title": "過呼吸",
+			"title": "過呼吸1",
 			"path": "20.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/Gw1B--hYVHI?t=59m35s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "過呼吸2",
+			"path": "199.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2869",
 			"relatives": {
 			}
 		},
@@ -1583,6 +1592,24 @@
 			}
 		},
 		{
+			"title": "ダメージ4",
+			"path": "198.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2783",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ダメージ5",
+			"path": "205.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4079",
+			"relatives": {
+			}
+		},
+		{
 			"title": "はーいこんばんはー",
 			"path": "174.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1610,11 +1637,20 @@
 			}
 		},
 		{
-			"title": "回避",
+			"title": "回避1",
 			"path": "179.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/iQ5U0xF-RTQ?t=489",
+			"relatives": {
+			}
+		},
+		{
+			"title": "回避2",
+			"path": "201.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=3141",
 			"relatives": {
 			}
 		},
@@ -1732,6 +1768,88 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2474",
+			"relatives": {
+			}
+		},
+		{
+			"title": "VSドラゴンくん",
+			"path": "195.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2678",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もーゆるさねぇ…！",
+			"path": "196.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2718",
+			"relatives": {
+			}
+		},
+		{
+			"title": "わかるわかる",
+			"path": "197.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2726",
+			"relatives": {
+			}
+		},
+
+		{
+			"title": "名前覚えたからな",
+			"path": "200.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=2892",
+			"relatives": {
+			}
+		},
+		{
+			"title": "死にとうない！",
+			"path": "202.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=3763",
+			"relatives": {
+			}
+		},
+		{
+			"title": "は～助かった",
+			"path": "203.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=3775",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばかにしてんだぞー",
+			"path": "204.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4009",
+			"relatives": {
+			}
+		},
+		{
+			"title": "待ってぇ…",
+			"path": "206.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4082",
+			"relatives": {
+			}
+		},
+		{
+			"title": "攻略情報おねだり",
+			"path": "207.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4185",
 			"relatives": {
 			}
 		}
