@@ -44,6 +44,15 @@
 			}
 		},
 		{
+			"title": "ふんふんふんふんふん2",
+			"path": "208.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/WNu_ewNHpKw?t=80",
+			"relatives": {
+			}
+		},
+		{
 			"title": "おじさんじゃいっ！",
 			"path": "4.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1850,6 +1859,15 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4185",
+			"relatives": {
+			}
+		},
+		{
+			"title": "笑い声2",
+			"path": "209.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/WNu_ewNHpKw?t=158",
 			"relatives": {
 			}
 		}
