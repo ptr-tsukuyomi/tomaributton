@@ -1628,11 +1628,20 @@
 			}
 		},
 		{
-			"title": "よいしょ×3",
+			"title": "よいしょ×3 1",
 			"path": "175.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/iQ5U0xF-RTQ?t=384",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よいしょx3 2",
+			"path": "213.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=156",
 			"relatives": {
 			}
 		},
@@ -1868,6 +1877,42 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/WNu_ewNHpKw?t=158",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ちょっと待ってな～",
+			"path": "210.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=50",
+			"relatives": {
+			}
+		},
+		{
+			"title": "えーっと",
+			"path": "211.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=141",
+			"relatives": {
+			}
+		},
+		{
+			"title": "えっとえっとえっと",
+			"path": "212.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=148",
+			"relatives": {
+			}
+		},
+		{
+			"title": "さあどうだ",
+			"path": "214.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=175",
 			"relatives": {
 			}
 		}
