@@ -944,6 +944,15 @@
 			}
 		},
 		{
+			"title": "ｵﾎｰ!4",
+			"path": "216.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=587",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ﾄﾞﾔｰ",
 			"path": "94.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1915,6 +1924,124 @@
 			"source": "https://youtu.be/UrwUreqBE_g?t=175",
 			"relatives": {
 			}
+		},
+		{
+			"title": "でなー",
+			"path": "215.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=186",
+			"relatives": {
+			}
+		},
+		{
+			"title": "かわいそう",
+			"path": "217.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=617",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おじさんの命は消耗品",
+			"path": "218.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=617",
+			"relatives": {
+			}
+		},
+		{
+			"title": "わー！",
+			"path": "219.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=685",
+			"relatives": {
+			}
+		},
+		{
+			"title": "羽ばたくおじさん1",
+			"path": "220.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=690",
+			"relatives": {
+			}
+		},
+		{
+			"title": "羽ばたくおじさん2",
+			"path": "221.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=708",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よいしょー！",
+			"path": "222.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=929",
+			"relatives": {
+			}
+		},
+		{
+			"title": "行くぞー！",
+			"path": "223.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=929",
+			"relatives": {
+			}
+		},
+		{
+			"title": "危ない1",
+			"path": "224.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=929",
+			"relatives": {
+			}
+		},
+		{
+			"title": "危ない2",
+			"path": "225.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=950",
+			"relatives": {
+			}
+		},
+		{
+			"title": "危ない3",
+			"path": "226.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=970",
+			"relatives": {
+			}
+		},
+		{
+			"title": "危ない4",
+			"path": "228.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=1169",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よっこいしょー！",
+			"path": "227.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/UrwUreqBE_g?t=970",
+			"relatives": {
+			}
 		}
+
 	]
 }
