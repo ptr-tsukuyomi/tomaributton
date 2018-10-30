@@ -314,15 +314,6 @@
 			}
 		},
 		{
-			"title": "ふんふんふんふん6",
-			"path": "236.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "相槌" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1603",
-			"relatives": {
-			}
-		},
-		{
 			"title": "1000人でひもQ",
 			"path": "25.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1394,24 +1385,6 @@
 			}
 		},
 		{
-			"title": "待ってぇ…",
-			"path": "206.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4082",
-			"relatives": {
-			}
-		},
-		{
-			"title": "待って！",
-			"path": "243.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1960",
-			"relatives": {
-			}
-		},
-		{
 			"title": "下からエイリアンみたいなの漏れてる",
 			"path": "150.mp3",
 			"actor": [ "兎鞠まり"],
@@ -1673,7 +1646,7 @@
 			}
 		},
 		{
-			"title": "よいしょ×3 2",
+			"title": "よいしょx3 2",
 			"path": "213.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
@@ -1768,33 +1741,6 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/iQ5U0xF-RTQ?t=1375",
-			"relatives": {
-			}
-		},
-		{
-			"title": "笑い声2",
-			"path": "209.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/WNu_ewNHpKw?t=158",
-			"relatives": {
-			}
-		},
-		{
-			"title": "笑い声3",
-			"path": "244.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1898",
-			"relatives": {
-			}
-		},
-		{
-			"title": "笑い声4",
-			"path": "249.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=2292",
 			"relatives": {
 			}
 		},
@@ -1917,11 +1863,29 @@
 			}
 		},
 		{
+			"title": "待ってぇ…",
+			"path": "206.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4082",
+			"relatives": {
+			}
+		},
+		{
 			"title": "攻略情報おねだり",
 			"path": "207.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/iQ5U0xF-RTQ?t=4185",
+			"relatives": {
+			}
+		},
+		{
+			"title": "笑い声2",
+			"path": "209.mp3",
+			"actor": [ "兎鞠まり"],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/WNu_ewNHpKw?t=158",
 			"relatives": {
 			}
 		},
@@ -2075,159 +2039,6 @@
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/UrwUreqBE_g?t=970",
-			"relatives": {
-			}
-		},
-		{
-			"title": "難しい",
-			"path": "229.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1310",
-			"relatives": {
-			}
-		},
-		{
-			"title": "よいしょ！",
-			"path": "230.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1319",
-			"relatives": {
-			}
-		},
-		{
-			"title": "わ゛ー！",
-			"path": "231.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "音" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1319",
-			"relatives": {
-			}
-		},
-		{
-			"title": "パーフェクトじゃないが？",
-			"path": "232.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1319",
-			"relatives": {
-			}
-		},
-		{
-			"title": "よいしょ詰め合わせ",
-			"path": "233.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1325",
-			"relatives": {
-			}
-		},
-		{
-			"title": "最初はウィリーで小汚く稼いでいこ？",
-			"path": "234.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1420",
-			"relatives": {
-			}
-		},
-		{
-			"title": "いぇーい",
-			"path": "235.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1488",
-			"relatives": {
-			}
-		},
-		{
-			"title": "かにかま食べてもいーい？",
-			"path": "237.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1617",
-			"relatives": {
-			}
-		},
-		{
-			"title": "かにかま",
-			"path": "238.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1643",
-			"relatives": {
-			}
-		},
-		{
-			"title": "えぇー・・・",
-			"path": "239.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1711",
-			"relatives": {
-			}
-		},
-		{
-			"title": "にゃん",
-			"path": "240.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1715",
-			"relatives": {
-			}
-		},
-		{
-			"title": "にゃーんじゃないんだよ",
-			"path": "241.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "〇〇〇じゃないんだよ" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1741",
-			"relatives": {
-			}
-		},
-		{
-			"title": "滑り落ちるおじさん",
-			"path": "242.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1898",
-			"relatives": {
-			}
-		},
-		{
-			"title": "おじさんホント背中よわいなぁ",
-			"path": "245.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=1993",
-			"relatives": {
-			}
-		},
-		{
-			"title": "とまり・とまれない・まり1",
-			"path": "246.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=2232",
-			"relatives": {
-			}
-		},
-		{
-			"title": "とまり・とまれない・まり2",
-			"path": "247.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=2273",
-			"relatives": {
-			}
-		},
-		{
-			"title": "成長するとこみてて・・・",
-			"path": "248.mp3",
-			"actor": [ "兎鞠まり"],
-			"tags": [ "言葉" ],
-			"source": "https://youtu.be/UrwUreqBE_g?t=2273",
 			"relatives": {
 			}
 		}
