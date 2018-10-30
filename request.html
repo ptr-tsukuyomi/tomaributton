@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8" />
+	<!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+	<script src="https://unpkg.com/vue"></script>
+
+	<script>
+		function init() {
+			let app = new Vue({
+				el: "#app",
+				data: {
+					title: "",
+					url: "",
+					note: ""
+				},
+				computed: {
+					isFilled: function () {
+						return this.url.length != 0;
+					}
+				},
+				methods: {
+					submit_click: function (e) {
+						if (!isFilled) {
+							e.preventDefault();
+							alert("必須項目を埋めてください。")
+						}
+					}
+				}
+			});
+			window.app = app;
+		}
+	</script>
+</head>
+<body onload="init()">
+	<h1>兎鞠まりボタン リクエストフォーム</h1>
+	<div id="app">
+		<p>* が付いている項目は必須です。</p>
+		<form action="request.php" method="post" v-on:submit="submit_click">
+			タイトル<br /><input type="text" name="title" style="width: 20em;" v-model="title" /><br />
+			動画URL(時刻付き) * <br /><input type="text" name="url" style="width: 20em;" v-model="url" /><br />
+			備考 <br /><textarea name="note" style="width: 20em; height:10em;" v-model="note"></textarea><br />
+			<input type="submit" value="送信" v-bind:disabled="!isFilled" /><br />
+		</form>
+	</div>
+</body>
+</html>
