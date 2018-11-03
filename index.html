@@ -35,7 +35,7 @@
 </head>
 <body onload="init()">
 	<div style="padding: 0 1em;">
-		<h1>兎鞠まりボタンβ</h1>
+		<h1>兎鞠まりボタンγ</h1>
 		<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-dnt="true" data-show-count="false">Tweet</a>
 		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
@@ -55,26 +55,42 @@
 			</el-header>
 			<el-main>
 				<hr />
+				<el-tabs value="byCategory" type="border-card">
+					<el-tab-pane label="カテゴリごと" name="byCategory">
+						<div v-for="(tracks, category) in categories">
+							<h2>{{ category }}</h2>
+							<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" style="margin: 0.25em;" />
+						</div>
+					</el-tab-pane>
+					<el-tab-pane label="アーカイブごと" name="byArchive">
+						<div v-for="(tracks, videoId) in archives">
+							<template v-if="tracks.length != 0">
+								<template v-if="archiveInfo[videoId] != undefined">
+									<template v-if="archiveInfo[videoId].url != undefined">
+										<a v-bind:href="archiveInfo[videoId].url">
+											<h2>{{ archiveInfo[videoId].title }}</h2>
+										</a>
+									</template>
+									<template v-if="archiveInfo[videoId].url == undefined">
+										<h2>{{ archiveInfo[videoId].title }}</h2>
+									</template>
+									<p v-if="archiveInfo[videoId].date != undefined">配信日: {{ archiveInfo[videoId].date }}</p>
+								</template>
+								<template v-if="archiveInfo[videoId] == undefined">
+									<h2>{{ videoId }}</h2>
+								</template>
+								<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" style="margin: 0.25em;" />
+							</template>
+						</div>
+					</el-tab-pane>
+				</el-tabs>
 				<player ref="player" v-bind:volume="volume"></player>
-				<div v-for="(tracks, category) in categories">
-					<h2>{{ category }}</h2>
-					<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" style="margin: 0.25em;" />
-				</div>
 				<hr />
 			</el-main>
 			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
 				<el-row style="margin: 0.5em;">
 					<el-col :span="24">
 						<div><a v-bind:href="track.source" target="_blank">{{ track.title }}</a></div>
-						<!--<div v-if="track.relatives">
-							<h2>関連項目</h2>
-							<div v-if="track.relatives.twitter">
-								<h3>twitter</h3>
-								<ul>
-									<li v-for="e in track.relatives.twitter"><a v-bind:href="e">{{ e }}</a></li>
-								</ul>
-							</div>
-						</div>-->
 					</el-col>
 				</el-row>
 				<el-row style="margin: 0.5em;">

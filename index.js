@@ -37,6 +37,8 @@ async function init() {
 		data: {
 			tracks: [],
 			categories: {},
+			archives: {},
+			archiveInfo: {},
 			track: nullTrack,
 			volume: 0.5
 		},
@@ -55,6 +57,19 @@ async function init() {
 	let response = await fetch("./contents.json");
 	let trackdata = await response.json();
 	let categories = {};
+	let archives = {};
+	
+	let archiveInfoArray = Array.from(new Map(Object.entries(trackdata.archiveInfo)));
+	archiveInfoArray.sort((a, b) => {
+		if (a[1].date < b[1].date) return 1;
+		if (a[1].date > b[1].date) return -1;
+		return 0;
+	});
+	for (let e of archiveInfoArray) {
+		archives[e[0]] = [];
+	}
+	archives["unknown"] = [];
+
 	for (let e of trackdata.tracks) {
 		let category = e.tags[0];
 		if (category == "その他") continue;
@@ -62,7 +77,63 @@ async function init() {
 			categories[category] = [];
 		}
 		categories[category].push(e);
+
+		// アーカイブごと
+		let src = e.source;
+		let videoId = src != null ? getVideoIdByURL(src) : null;
+		if (videoId != null) {
+			if (archives[videoId] == undefined) {
+				archives[videoId] = [];
+			}
+			archives[videoId].push(e);
+		} else {
+			archives["unknown"].push(e);
+		}
 	}
 	app.categories = categories;
+	app.archives = archives;
+	app.archiveInfo = trackdata.archiveInfo;
 	soundRoot = trackdata.soundRoot;
+}
+
+function getQueryMapByQueryString(qs) {
+	let qarray = qs.split("&");
+	let qmap = qarray.reduce((map, s) => {
+		let kv = s.split("=");
+		map.set(kv[0], kv[1]);
+		return map;
+	}, new Map());
+	return qmap;
+}
+
+function getVideoIdByURL(url) {
+	// https://youtu.be/<videoid>?t=<time>
+	// https://www.youtube.com/watch?v=<videoid>&t=<time>
+	if (url == null) return null;
+	let regex_url = new RegExp('^https?://(.*?)(\\:\\d{1,5})?/(.*?)(\\?.*?)?$');
+	let found = url.match(regex_url);
+	if (found == null) return null;
+	
+	let domain = found[1];
+
+	let result = null;
+
+	switch (domain) {
+		case "youtube.com":
+		case "www.youtube.com":
+			let query = found[4].slice(1);
+			let qmap = getQueryMapByQueryString(query);
+			result = "YT:" + qmap.get("v");
+			break;
+		case "youtu.be":
+			result = "YT:" + found[3];
+			break;
+		case "www.showroom-live.com":
+			result = "SR";
+			break;
+		default:
+			result = null;
+			break;
+	}
+	return result;
 }
