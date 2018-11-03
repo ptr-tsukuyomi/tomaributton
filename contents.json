@@ -1,5 +1,250 @@
 {
 	"soundRoot": "sound/",
+	"archiveInfo": {
+		"YT:LPu9KUcj2Ck": {
+			"title": "【自己紹介】はじめまして！兎鞠まりです！",
+			"url": "https://www.youtube.com/watch?v=LPu9KUcj2Ck",
+			"date": "2018/07/01"
+		},
+		"YT:SXBQFHcWXdg": {
+			"title": "【Outlast】 グミないじゃんか！！！※絶叫注意【#01】",
+			"url": "https://www.youtube.com/watch?v=SXBQFHcWXdg",
+			"date": "2018/07/04"
+		},
+		"YT:GQ9PCcMbcoM": {
+			"title": "【Outlast】 兎鞠さいきょーですから！※絶叫注意【#02】",
+			"url": "https://www.youtube.com/watch?v=GQ9PCcMbcoM",
+			"date": "2018/07/08"
+		},
+		"YT:aPe6AfuKgD8": {
+			"title": "【マシュマロ】質問おいしい！！おいしい！！！【お返事】",
+			"url": "https://www.youtube.com/watch?v=aPe6AfuKgD8",
+			"date": "2018/07/13"
+		},
+		"YT:qelo8uz-xzk": {
+			"title": "【Outlast】 洋服ぐらい着てよぉ！！※絶叫注意【#03】",
+			"url": "https://www.youtube.com/watch?v=qelo8uz-xzk",
+			"date": "2018/07/19"
+		},
+		"YT:891P4f4T1H4": {
+			"title": "おテストはいしん！",
+			"url": "https://www.youtube.com/watch?v=891P4f4T1H4",
+			"date": "2018/07/31"
+		},
+		"YT:Gw1B--hYVHI": {
+			"title": "げってぃんぐおーばーいっとまり",
+			"url": "https://www.youtube.com/watch?v=Gw1B--hYVHI",
+			"date": "2018/08/05"
+		},
+		"YT:Qfv5ozhaFrA": {
+			"title": "でっどばいでいらいとまりりたーんず【親子配信】",
+			"url": "https://www.youtube.com/watch?v=Qfv5ozhaFrA",
+			"date": "2018/08/09"
+		},
+		"YT:wPYzGia6bJk": {
+			"title": "【絶叫注意】あうとらすとまり【#04】",
+			"url": "https://www.youtube.com/watch?v=wPYzGia6bJk",
+			"date": "2018/08/15"
+		},
+		"YT:i9RbdUr6_tU": {
+			"title": "まぐろなちゃんと環境設定 (1)",
+			"url": "https://www.youtube.com/watch?v=i9RbdUr6_tU",
+			"date": "2018/08/18"
+		},
+		"YT:Fi1Ikdg_sl8": {
+			"title": "まぐろなちゃんと環境設定 (2)",
+			"url": "https://www.youtube.com/watch?v=Fi1Ikdg_sl8",
+			"date": "2018/08/18"
+		},
+		"YT:zRptWnFy9g8": {
+			"title": "【悲鳴をあげたら】あうとらすとまり　＃05【即終了】",
+			"url": "https://www.youtube.com/watch?v=zRptWnFy9g8",
+			"date": "2018/08/22"
+		},
+		"YT:MvLPoUUpVQw": {
+			"title": "【悲鳴をあげたら】あうとらすとまり　#06【即終了】",
+			"url": "https://www.youtube.com/watch?v=MvLPoUUpVQw",
+			"date": "2018/08/23"
+		},
+		"YT:UZ21o5sq5Ns": {
+			"title": "【悲鳴をあげたら】あうとらすとまり　#07【即終了】",
+			"url": "https://www.youtube.com/watch?v=UZ21o5sq5Ns",
+			"date": "2018/08/24"
+		},
+		"YT:zeE2g6YpGPg": {
+			"title": "【初見】ダークソウル３　＃０１【おじさん】",
+			"url": "https://www.youtube.com/watch?v=zeE2g6YpGPg",
+			"date": "2018/08/27"
+		},
+		"YT:3frYv1r-SJA": {
+			"title": "8000人ありがとうございます+今後の事等についてお話しよ！",
+			"url": "https://www.youtube.com/watch?v=3frYv1r-SJA",
+			"date": "2018/08/28"
+		},
+		"YT:Y0PuBEnvyLU": {
+			"title": "左右からおじさんすぺしゃる",
+			"url": "https://www.youtube.com/watch?v=Y0PuBEnvyLU",
+			"date": "2018/08/29"
+		},
+		"YT:X2wn7rv4fP4": {
+			"title": "おかし食べ散らかし侍",
+			"url": "https://www.youtube.com/watch?v=X2wn7rv4fP4",
+			"date": "2018/09/05"
+		},
+		"YT:g_fXfZF7GOU": {
+			"title": "ばーじょんあっぷおじさん",
+			"url": "https://www.youtube.com/watch?v=g_fXfZF7GOU",
+			"date": "2018/09/11"
+		},
+		"YT:LOIRhT3V5dA": {
+			"title": "10000人記念！酔っぱらいが知育菓子やっつける！！！",
+			"url": "https://www.youtube.com/watch?v=LOIRhT3V5dA",
+			"date": "2018/09/13"
+		},
+		"YT:iQ5U0xF-RTQ": {
+			"title": "【ROCKMAN２】岩男２おじさんクリアまで配信",
+			"url": "https://www.youtube.com/watch?v=iQ5U0xF-RTQ",
+			"date": "2018/09/19"
+		},
+		"YT:NYR1yiBffHE": {
+			"title": "【兎鞠まり】バイノーラルおじさん【囁く】",
+			"url": "https://www.youtube.com/watch?v=NYR1yiBffHE",
+			"date": "2018/09/21"
+		},
+		"YT:WNu_ewNHpKw": {
+			"title": "だらっと髪型考えたいおじさん",
+			"url": "https://www.youtube.com/watch?v=WNu_ewNHpKw",
+			"date": "2018/09/23"
+		},
+		"YT:UrwUreqBE_g": {
+			"title": "【Trials Fusion】ばいくおじさん #01",
+			"url": "https://www.youtube.com/watch?v=UrwUreqBE_g",
+			"date": "2018/09/24"
+		},
+		"YT:RifR9BbP_h0": {
+			"title": "【ROCKET LEAGUE】ロケリおじさんず #01",
+			"url": "https://www.youtube.com/watch?v=RifR9BbP_h0",
+			"date": "2018/09/26"
+		},
+		"YT:Is4NvKpeKsw": {
+			"title": "【短時間配信】バイノーラルおじさんリターンズ【ボイチェンVtuber】",
+			"url": "https://www.youtube.com/watch?v=Is4NvKpeKsw",
+			"date": "2018/09/27"
+		},
+		"YT:zvhx2jrAbLU": {
+			"title": "【ぐにゃぐにゃ】まりはなこらぼ！ Human fall flatで遊ぶ！【にんげん】",
+			"url": "https://www.youtube.com/watch?v=zvhx2jrAbLU",
+			"date": "2018/09/29"
+		},
+		"YT:6lH-sZJ3_hE": {
+			"title": "たこぱおじさん",
+			"url": "https://www.youtube.com/watch?v=6lH-sZJ3_hE",
+			"date": "2018/10/03"
+		},
+		"YT:tJIjcwtUD9Y": {
+			"title": "【新モデル】清楚バージョンアップおじさん",
+			"url": "https://www.youtube.com/watch?v=tJIjcwtUD9Y",
+			"date": "2018/10/07"
+		},
+		"YT:O0WI4XfiNyY": {
+			"title": "【ただ】もんじゃおじさん【たべるだけ】",
+			"url": "https://www.youtube.com/watch?v=O0WI4XfiNyY",
+			"date": "2018/10/08"
+		},
+		"YT:GPrgE2cws5k": {
+			"title": "おてすと配信　おはみがき",
+			"url": "https://www.youtube.com/watch?v=GPrgE2cws5k",
+			"date": "2018/10/08"
+		},
+		"YT:BAujiSbRxQU": {
+			"title": "【知育菓子】泡たべよ！【とまりめちゃ賢い】",
+			"url": "https://www.youtube.com/watch?v=BAujiSbRxQU",
+			"date": "2018/10/11"
+		},
+		"YT:HpS2BMmTKlA": {
+			"title": "【あんパッドPRO】天才らくがきおじさん【とまりめちゃ賢い】",
+			"url": "https://www.youtube.com/watch?v=HpS2BMmTKlA",
+			"date": "2018/10/12"
+		},
+		"YT:Q2yUE8VDKfg": {
+			"title": "【知育菓子】賢いねりきゃんおじさん！【とまりかしこみ】",
+			"url": "https://www.youtube.com/watch?v=Q2yUE8VDKfg",
+			"date": "2018/10/13"
+		},
+		"YT:g03GB3G7_rk": {
+			"title": "【たこ】たこぱんぽこん【焼く】",
+			"url": "https://www.youtube.com/watch?v=g03GB3G7_rk",
+			"date": "2018/10/15"
+		},
+		"YT:_48-n5FnKAM": {
+			"title": "お絵かきだと思う何かの配信！",
+			"url": "https://www.youtube.com/watch?v=_48-n5FnKAM",
+			"date": "2018/10/16"
+		},
+		"YT:XVzveBtn8BE": {
+			"title": "【やられたら】腹筋ベルトDARK SOULS【びびび】",
+			"url": "https://www.youtube.com/watch?v=XVzveBtn8BE",
+			"date": "2018/10/17"
+		},
+		"YT:1ZEsX1Ij1ZI": {
+			"title": "【やられたら】腹筋ベルトDARK SOULS #02【びびび】",
+			"url": "https://www.youtube.com/watch?v=1ZEsX1Ij1ZI",
+			"date": "2018/10/18"
+		},
+		"YT:godXru4H5vA": {
+			"title": "【やられたら】腹筋ベルトDARK SOULS #03【びびび】",
+			"url": "https://www.youtube.com/watch?v=godXru4H5vA",
+			"date": "2018/10/21"
+		},
+		"YT:RpxMkD9YQ6Y": {
+			"title": "【やられたら】腹筋ベルトDARK SOULS #04【びびび】",
+			"url": "https://www.youtube.com/watch?v=RpxMkD9YQ6Y",
+			"date": "2018/10/22"
+		},
+		"YT:WqHz1iYeZj8": {
+			"title": "【やられたら】腹筋ベルトDARK SOULS #05【びびび】",
+			"url": "https://www.youtube.com/watch?v=WqHz1iYeZj8",
+			"date": "2018/10/23"
+		},
+		"YT:na_eZyY-n7A": {
+			"title": "【やられたら】腹筋ベルトDARK SOULS #06【びびび】",
+			"url": "https://www.youtube.com/watch?v=na_eZyY-n7A",
+			"date": "2018/10/24"
+		},
+		"YT:AsBWN0jNFHE": {
+			"title": "【やられたら】腹筋ベルトDARK SOULS #07【びびび】",
+			"url": "https://www.youtube.com/watch?v=AsBWN0jNFHE",
+			"date": "2018/10/25"
+		},
+		"YT:MpwZuZEs0zc": {
+			"title": "おはなしとかするやつ！",
+			"url": "https://www.youtube.com/watch?v=MpwZuZEs0zc",
+			"date": "2018/10/28"
+		},
+		"YT:FB7baMR1zqA": {
+			"title": "おはなしとかするやつ！",
+			"url": "https://www.youtube.com/watch?v=FB7baMR1zqA",
+			"date": "2018/11/02"
+		},
+		"YT:eZnyVrfNN-w": {
+			"title": "[ひいらぎちゃんねる第80回] 雑談おじさん (コラボ先)",
+			"url": "https://www.youtube.com/watch?v=eZnyVrfNN-w",
+			"date": "2018/08/30"
+		},
+		"YT:KnhDierZ4Ng": {
+			"title": "左右からおじさん　#2 (コラボ先)",
+			"url": "https://www.youtube.com/watch?v=KnhDierZ4Ng",
+			"date": "2018/08/26"
+		},
+		"YT:gRy-oBE_NuU": {
+			"title": "左右から迫りくるマインクラフトおじさん (コラボ先)",
+			"url": "https://www.youtube.com/watch?v=gRy-oBE_NuU",
+			"date": "2018/09/01"
+		},
+		"SR": {
+			"title": "SHOWROOM"				
+		}
+	},
 	"tracks": [
 		{
 			"title": "ば～っかにしてんのか～？",
@@ -2515,7 +2760,7 @@
 			"path": "250.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉", "バ美肉ナイトクラブ(夜)" ],
-			"source": "",
+			"source": "https://www.showroom-live.com/Tomari_Mari",
 			"relatives": {
 			}
 		},
@@ -2524,7 +2769,7 @@
 			"path": "251.mp3",
 			"actor": [ "兎鞠まり"],
 			"tags": [ "言葉", "バ美肉ナイトクラブ(夜)" ],
-			"source": "",
+			"source": "https://www.showroom-live.com/Tomari_Mari",
 			"relatives": {
 			}
 		}
