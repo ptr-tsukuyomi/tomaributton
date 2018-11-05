@@ -67,9 +67,9 @@
 							<template v-if="tracks.length != 0">
 								<template v-if="archiveInfo[videoId] != undefined">
 									<template v-if="archiveInfo[videoId].url != undefined">
-										<a v-bind:href="archiveInfo[videoId].url">
-											<h2>{{ archiveInfo[videoId].title }}</h2>
-										</a>
+										<h2>
+											<a v-bind:href="archiveInfo[videoId].url">{{ archiveInfo[videoId].title }}</a>
+										</h2>
 									</template>
 									<template v-if="archiveInfo[videoId].url == undefined">
 										<h2>{{ archiveInfo[videoId].title }}</h2>
