@@ -242,7 +242,7 @@
 			"date": "2018/09/01"
 		},
 		"SR": {
-			"title": "SHOWROOM"				
+			"title": "SHOWROOM"
 		}
 	},
 	"tracks": [
@@ -591,6 +591,15 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "相槌" ],
 			"source": "https://youtu.be/FB7baMR1zqA?t=237",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ふんふんふんふん8",
+			"path": "294.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=900",
 			"relatives": {
 			}
 		},
@@ -2098,6 +2107,15 @@
 			}
 		},
 		{
+			"title": "笑い声5",
+			"path": "293.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=888",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ふんふんふんふんふんふんじゃないんだよ",
 			"path": "189.mp3",
 			"actor": [ "兎鞠まり" ],
@@ -2792,7 +2810,7 @@
 			}
 		},
 		{
-			"title": "くしゃみ(天然)",
+			"title": "くしゃみ(天然)1",
 			"path": "283.mp3",
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
@@ -2842,6 +2860,141 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/FB7baMR1zqA?t=181",
+			"relatives": {
+			}
+		},
+		{
+			"title": "イキリバイク3",
+			"path": "291.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=755",
+			"relatives": {
+			}
+		},
+		{
+			"title": "感嘆1",
+			"path": "292.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=888",
+			"relatives": {
+			}
+		},
+		{
+			"title": "コミケ(C95)の本について",
+			"path": "295.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=918",
+			"relatives": {
+			}
+		},
+		{
+			"title": "話すことないなった",
+			"path": "296.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=1051",
+			"relatives": {
+			}
+		},
+		{
+			"title": "永遠の12歳",
+			"path": "297.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=1495",
+			"relatives": {
+			}
+		},
+		{
+			"title": "くしゃみ(天然)2",
+			"path": "298.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=1535",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ちゃんとおいしいもの食べてるかー？",
+			"path": "299.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=1654",
+			"relatives": {
+			}
+		},
+		{
+			"title": "げっぷ出そう",
+			"path": "300.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=1721",
+			"relatives": {
+			}
+		},
+		{
+			"title": "きもちわるっ",
+			"path": "301.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=1587",
+			"relatives": {
+			}
+		},
+		{
+			"title": "心遣い",
+			"path": "302.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=1746",
+			"relatives": {
+			}
+		},
+		{
+			"title": "すけべぶっく募集",
+			"path": "303.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=2151",
+			"relatives": {
+			}
+		},
+		{
+			"title": "エイリアンを産み落とす薄い本はNG",
+			"path": "307.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=3463",
+			"relatives": {
+			}
+		},
+		{
+			"title": "耳としっぽは脱着式",
+			"path": "304.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=2292",
+			"relatives": {
+			}
+		},
+		{
+			"title": "えびとんとんマグロナちゃん",
+			"path": "305.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=2644",
+			"relatives": {
+			}
+		},
+		{
+			"title": "びびび",
+			"path": "306.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/FB7baMR1zqA?t=2797",
 			"relatives": {
 			}
 		}
