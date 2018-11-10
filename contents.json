@@ -1792,6 +1792,15 @@
 			}
 		},
 		{
+			"title": "耳ふー4",
+			"path": "310.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "音" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=633",
+			"relatives": {
+			}
+		},
+		{
 			"title": "心音1",
 			"path": "156.mp3",
 			"actor": [ "兎鞠まり" ],
@@ -2995,6 +3004,60 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/FB7baMR1zqA?t=2797",
+			"relatives": {
+			}
+		},
+		{
+			"title": "バイノーラルふんふんふんふん1",
+			"path": "308.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "相槌" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=379",
+			"relatives": {
+			}
+		},
+		{
+			"title": "チップスター",
+			"path": "309.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "音" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=464",
+			"relatives": {
+			}
+		},
+		{
+			"title": "負けちゃえー♡",
+			"path": "311.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=740",
+			"relatives": {
+			}
+		},
+		{
+			"title": "勝てるわけないんだよな～",
+			"path": "312.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=786",
+			"relatives": {
+			}
+		},
+		{
+			"title": "スクワット",
+			"path": "313.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=1653",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おしり衝突",
+			"path": "314.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=2011",
 			"relatives": {
 			}
 		}
