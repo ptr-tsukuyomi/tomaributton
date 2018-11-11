@@ -1819,6 +1819,15 @@
 			}
 		},
 		{
+			"title": "心音3",
+			"path": "316.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "音" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=2126",
+			"relatives": {
+			}
+		},
+		{
 			"title": "バイノーラルおあめ",
 			"path": "158.mp3",
 			"actor": [ "兎鞠まり" ],
@@ -3053,11 +3062,47 @@
 			}
 		},
 		{
+			"title": "スクワット2",
+			"path": "315.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=2037",
+			"relatives": {
+			}
+		},
+		{
 			"title": "おしり衝突",
 			"path": "314.mp3",
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "バイノーラル", "言葉" ],
 			"source": "https://youtu.be/Is4NvKpeKsw?t=2011",
+			"relatives": {
+			}
+		},
+		{
+			"title": "羊(?)を数える",
+			"path": "317.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "音" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=2357",
+			"relatives": {
+			}
+		},
+		{
+			"title": "耳かき",
+			"path": "318.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "音" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=2609",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もう一日頑張ろうな",
+			"path": "319.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "バイノーラル", "言葉" ],
+			"source": "https://youtu.be/Is4NvKpeKsw?t=3398",
 			"relatives": {
 			}
 		}
