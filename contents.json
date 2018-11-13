@@ -289,6 +289,15 @@
 			}
 		},
 		{
+			"title": "ふんふんふんふんふんふん2",
+			"path": "320.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "相槌" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=157",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ふんふんふんふんふん1",
 			"path": "208.mp3",
 			"actor": [ "兎鞠まり" ],
@@ -1225,11 +1234,20 @@
 			}
 		},
 		{
-			"title": "マ～？",
+			"title": "マ～？1",
 			"path": "92.mp3",
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/X2wn7rv4fP4?t=54m48s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "マ～？2",
+			"path": "323.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=224",
 			"relatives": {
 			}
 		},
@@ -3103,6 +3121,51 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "バイノーラル", "言葉" ],
 			"source": "https://youtu.be/Is4NvKpeKsw?t=3398",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ばかかな～？",
+			"path": "321.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=168",
+			"relatives": {
+			}
+		},
+		{
+			"title": "欲ばりさんめ",
+			"path": "322.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=189",
+			"relatives": {
+			}
+		},
+		{
+			"title": "はあびっくりした…",
+			"path": "324.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=500",
+			"relatives": {
+			}
+		},
+		{
+			"title": "お腹こするのやめてよ！",
+			"path": "325.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=571",
+			"relatives": {
+			}
+		},
+		{
+			"title": "プロゲーマーじゃん",
+			"path": "326.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=587",
 			"relatives": {
 			}
 		}
