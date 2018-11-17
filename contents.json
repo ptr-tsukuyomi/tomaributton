@@ -241,6 +241,11 @@
 			"url": "https://www.youtube.com/watch?v=gRy-oBE_NuU",
 			"date": "2018/09/01"
 		},
+		"YT:vnWZeLL2dWg": {
+			"title": "間違えて配信開始しちゃいたい芸",
+			"url": "https://www.youtube.com/watch?v=vnWZeLL2dWg",
+			"date": "2018/11/17"
+		},
 		"SR": {
 			"title": "SHOWROOM"
 		}
@@ -622,11 +627,20 @@
 			}
 		},
 		{
-			"title": "おじさんやぞー",
+			"title": "おじさんやぞー1",
 			"path": "26.mp3",
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/891P4f4T1H4?t=28m26s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おじさんやぞー2",
+			"path": "386.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1501",
 			"relatives": {
 			}
 		},
@@ -766,11 +780,20 @@
 			}
 		},
 		{
-			"title": "もー",
+			"title": "もー1",
 			"path": "37.mp3",
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/qelo8uz-xzk?t=57s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もー2",
+			"path": "390.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1756",
 			"relatives": {
 			}
 		},
@@ -1297,6 +1320,15 @@
 			}
 		},
 		{
+			"title": "ｵﾎｰ!6",
+			"path": "353.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=368",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ﾄﾞﾔｰ",
 			"path": "94.mp3",
 			"actor": [ "兎鞠まり" ],
@@ -1468,11 +1500,20 @@
 			}
 		},
 		{
-			"title": "おハーブ生える",
+			"title": "おハーブ生える1",
 			"path": "114.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "清楚" ],
+			"tags": [ "清楚", "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=2276",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おハーブ生える2",
+			"path": "421.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "清楚", "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3222",
 			"relatives": {
 			}
 		},
@@ -1507,7 +1548,7 @@
 			"title": "おキレあそばせる",
 			"path": "118.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "清楚" ],
+			"tags": [ "清楚", "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
 			"relatives": {
 			}
@@ -1516,7 +1557,7 @@
 			"title": "おハーブ生え散らかす1",
 			"path": "119.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "清楚" ],
+			"tags": [ "清楚", "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=2460",
 			"relatives": {
 			}
@@ -1534,7 +1575,7 @@
 			"title": "おしとやか",
 			"path": "121.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "清楚" ],
+			"tags": [ "清楚", "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=2759",
 			"relatives": {
 			}
@@ -1543,7 +1584,7 @@
 			"title": "お上品",
 			"path": "122.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "清楚" ],
+			"tags": [ "清楚", "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=2768",
 			"relatives": {
 			}
@@ -1624,7 +1665,7 @@
 			"title": "おハーブ生え散らかす2",
 			"path": "135.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "清楚" ],
+			"tags": [ "清楚", "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=3691",
 			"relatives": {
 			}
@@ -1696,7 +1737,7 @@
 			"title": "おつかれですわぞ～",
 			"path": "144.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "清楚" ],
+			"tags": [ "清楚", "言葉" ],
 			"source": "https://youtu.be/tJIjcwtUD9Y?t=4983",
 			"relatives": {
 			}
@@ -3035,11 +3076,38 @@
 			}
 		},
 		{
-			"title": "びびび",
+			"title": "びびび1",
 			"path": "306.mp3",
 			"actor": [ "兎鞠まり" ],
-			"tags": [ "音" ],
+			"tags": [ "言葉" ],
 			"source": "https://youtu.be/FB7baMR1zqA?t=2797",
+			"relatives": {
+			}
+		},
+		{
+			"title": "びびび2",
+			"path": "350.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=308",
+			"relatives": {
+			}
+		},
+		{
+			"title": "びびび3",
+			"path": "352.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=351",
+			"relatives": {
+			}
+		},
+		{
+			"title": "びびび4",
+			"path": "354.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=375",
 			"relatives": {
 			}
 		},
@@ -3276,6 +3344,718 @@
 			"source": "https://youtu.be/zvhx2jrAbLU?t=2410",
 			"relatives": {
 			}
+		},
+		{
+			"title": "間違えて配信開始しちゃいたい芸1",
+			"path": "339.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=19",
+			"relatives": {
+			}
+		},
+		{
+			"title": "間違えて配信開始しちゃいたい芸2",
+			"path": "424.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3287",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あーっ！お客様！！あーっ！！",
+			"path": "340.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=81",
+			"relatives": {
+			}
+		},
+		{
+			"title": "してやったぜ",
+			"path": "341.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=122",
+			"relatives": {
+			}
+		},
+		{
+			"title": "みなさまみなさまこんにちは！",
+			"path": "342.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=125",
+			"relatives": {
+			}
+		},
+		{
+			"title": "どうすんのこれ",
+			"path": "343.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=136",
+			"relatives": {
+			}
+		},
+		{
+			"title": "名取まり",
+			"path": "344.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=162",
+			"relatives": {
+			}
+		},
+		{
+			"title": "💩じゃないが",
+			"path": "345.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=196",
+			"relatives": {
+			}
+		},
+		{
+			"title": "トイレに行きたい",
+			"path": "346.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=205",
+			"relatives": {
+			}
+		},
+		{
+			"title": "自分を追い込む",
+			"path": "347.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=241",
+			"relatives": {
+			}
+		},
+		{
+			"title": "んぅ！あったー！",
+			"path": "348.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=290",
+			"relatives": {
+			}
+		},
+		{
+			"title": "膀胱を刺激ちゃるけぇのぉ",
+			"path": "349.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=299",
+			"relatives": {
+			}
+		},
+		{
+			"title": "バイブおじさんじゃないがー！",
+			"path": "351.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=347",
+			"relatives": {
+			}
+		},
+		{
+			"title": "これー！",
+			"path": "355.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=405",
+			"relatives": {
+			}
+		},
+		{
+			"title": "やったでおい！1",
+			"path": "356.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=636",
+			"relatives": {
+			}
+		},
+		{
+			"title": "やったでおい！2",
+			"path": "402.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2341",
+			"relatives": {
+			}
+		},
+		{
+			"title": "やったでおい！3",
+			"path": "419.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3194",
+			"relatives": {
+			}
+		},
+		{
+			"title": "う゛ぇ゛ぇ゛1",
+			"path": "357.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=653",
+			"relatives": {
+			}
+		},
+		{
+			"title": "う゛ぇ゛ぇ゛2",
+			"path": "358.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=653",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おはようございナース🍆1",
+			"path": "359.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=678",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おはようございナース🍆2",
+			"path": "392.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1802",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おはようございナース🍆3",
+			"path": "393.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1802",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おはようございナース🍆4",
+			"path": "394.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "あいさつ" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1802",
+			"relatives": {
+			}
+		},
+		{
+			"title": "炙りカルビ1",
+			"path": "360.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=896",
+			"relatives": {
+			}
+		},
+		{
+			"title": "炙りカルビ2",
+			"path": "361.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=896",
+			"relatives": {
+			}
+		},
+		{
+			"title": "右耳にミニニキビ",
+			"path": "362.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=911",
+			"relatives": {
+			}
+		},
+		{
+			"title": "新人歌手新春シャンソンショー",
+			"path": "363.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=916",
+			"relatives": {
+			}
+		},
+		{
+			"title": "生バナナ",
+			"path": "364.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=925",
+			"relatives": {
+			}
+		},
+		{
+			"title": "にゃんこ子にゃんこ孫にゃんこ",
+			"path": "365.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=968",
+			"relatives": {
+			}
+		},
+		{
+			"title": "賃上げ、鎮圧、沈鬱、鎮火",
+			"path": "366.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=979",
+			"relatives": {
+			}
+		},
+		{
+			"title": "間違えてないもん！",
+			"path": "367.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1000",
+			"relatives": {
+			}
+		},
+		{
+			"title": "すまんです！",
+			"path": "368.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1032",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ルイズコピペ",
+			"path": "369.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1043",
+			"relatives": {
+			}
+		},
+		{
+			"title": "なんだー？言わせて楽しいかー？",
+			"path": "370.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1069",
+			"relatives": {
+			}
+		},
+		{
+			"title": "落下芸",
+			"path": "371.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1079",
+			"relatives": {
+			}
+		},
+		{
+			"title": "フィラリア、フェラーリ、フィラデルフィア1",
+			"path": "372.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1107",
+			"relatives": {
+			}
+		},
+		{
+			"title": "フィラリア、フェラーリ、フィラデルフィア2",
+			"path": "373.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1107",
+			"relatives": {
+			}
+		},
+		{
+			"title": "かえるぴょこぴょこ",
+			"path": "374.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1134",
+			"relatives": {
+			}
+		},
+		{
+			"title": "マンゴ、小マンゴ、合わせて５個マンゴ",
+			"path": "375.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1148",
+			"relatives": {
+			}
+		},
+		{
+			"title": "もぅﾏﾁﾞ無理。 彼氏とゎかれた。",
+			"path": "376.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1177",
+			"relatives": {
+			}
+		},
+		{
+			"title": "待って×3",
+			"path": "377.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1233",
+			"relatives": {
+			}
+		},
+		{
+			"title": "なんだー？やんのかー？",
+			"path": "378.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1241",
+			"relatives": {
+			}
+		},
+		{
+			"title": "💩",
+			"path": "379.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1252",
+			"relatives": {
+			}
+		},
+		{
+			"title": "バブみバブバブ ブビバビバ1",
+			"path": "380.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1280",
+			"relatives": {
+			}
+		},
+		{
+			"title": "バブみバブバブ ブビバビバ2",
+			"path": "395.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1995",
+			"relatives": {
+			}
+		},
+		{
+			"title": "くろひつぎ",
+			"path": "381.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1320",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ひらがな読めない",
+			"path": "382.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1359",
+			"relatives": {
+			}
+		},
+		{
+			"title": "​隣の兎鞠まりの家で寝泊まり",
+			"path": "383.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1368",
+			"relatives": {
+			}
+		},
+		{
+			"title": "​おしっこないなった",
+			"path": "384.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1387",
+			"relatives": {
+			}
+		},
+		{
+			"title": "​おじさんの咳",
+			"path": "385.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1482",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あふん あはん あひん",
+			"path": "387.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1526",
+			"relatives": {
+			}
+		},
+		{
+			"title": "そう、💩のように",
+			"path": "388.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1643",
+			"relatives": {
+			}
+		},
+		{
+			"title": "んわぁ！",
+			"path": "389.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1756",
+			"relatives": {
+			}
+		},
+		{
+			"title": "意識の高いプロ女児",
+			"path": "391.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=1756",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ウメハラがぁ決めたぁぁーっ！！！！",
+			"path": "396.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2040",
+			"relatives": {
+			}
+		},
+		{
+			"title": "竹垣",
+			"path": "397.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2101",
+			"relatives": {
+			}
+		},
+		{
+			"title": "今プロじゃない？",
+			"path": "398.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2136",
+			"relatives": {
+			}
+		},
+		{
+			"title": "フルーツポンチ",
+			"path": "399.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2145",
+			"relatives": {
+			}
+		},
+		{
+			"title": "おかえりんこ～",
+			"path": "400.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2173",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ｵﾝﾄﾞｩﾙｳﾗｷﾞｯﾀﾝﾃﾞｨｽｶｰ",
+			"path": "401.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2336",
+			"relatives": {
+			}
+		},
+		{
+			"title": "宝生永夢ゥ！",
+			"path": "403.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2433",
+			"relatives": {
+			}
+		},
+		{
+			"title": "にんじんせんせえ方！",
+			"path": "404.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2610",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よろしくてー？",
+			"path": "405.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "清楚", "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2687",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よろしくてよ！",
+			"path": "406.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "清楚", "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2698",
+			"relatives": {
+			}
+		},
+		{
+			"title": "みなさま、ごきげんよう",
+			"path": "407.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "清楚", "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2698",
+			"relatives": {
+			}
+		},
+		{
+			"title": "わたくし、お排便を我慢しておりますの",
+			"path": "408.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "清楚", "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2709",
+			"relatives": {
+			}
+		},
+		{
+			"title": "お小水を我慢しておりますのよ",
+			"path": "409.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "清楚", "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2745",
+			"relatives": {
+			}
+		},
+		{
+			"title": "すまん",
+			"path": "410.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2797",
+			"relatives": {
+			}
+		},
+		{
+			"title": "すまんです！すまんなんです！すいません！！",
+			"path": "411.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2843",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ゾンビとかワンパンよ",
+			"path": "412.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2876",
+			"relatives": {
+			}
+		},
+		{
+			"title": "はいBEN",
+			"path": "413.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2902",
+			"relatives": {
+			}
+		},
+		{
+			"title": "とまり・ろり・まり",
+			"path": "414.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "話" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=2951",
+			"relatives": {
+			}
+		},
+		{
+			"title": "んーまっ",
+			"path": "415.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "音" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3025",
+			"relatives": {
+			}
+		},
+		{
+			"title": "尿意1",
+			"path": "416.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3039",
+			"relatives": {
+			}
+		},
+		{
+			"title": "尿意2",
+			"path": "417.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3063",
+			"relatives": {
+			}
+		},
+		{
+			"title": "さなちゃん…清楚…？",
+			"path": "418.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3144",
+			"relatives": {
+			}
+		},
+		{
+			"title": "締めの言葉",
+			"path": "420.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3201",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ゆるしてぇ、ゆるしてよぉ",
+			"path": "422.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3225",
+			"relatives": {
+			}
+		},
+		{
+			"title": "高評価とチャンネル登録よろしくお願いします、お兄ちゃん♪",
+			"path": "423.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/vnWZeLL2dWg?t=3270",
+			"relatives": {
+			}
 		}
+
 	]
 }
