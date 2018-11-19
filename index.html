@@ -34,14 +34,14 @@
 	</style>
 </head>
 <body onload="init()">
-	<div style="padding: 0 1em;">
+	<div style="padding: 0 0.5em;">
 		<h1>兎鞠まりボタンγ</h1>
 		<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-dnt="true" data-show-count="false">Tweet</a>
 		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
 	<div id="app">
 		<el-container>
-			<el-header style="height: unset;">
+			<el-header style="height: unset; padding: 0.5em;">
 				<h2>お知らせ</h2>
 				<p>
 					🎉🎉<span style="font-weight: bold; color: red;">祝 企業案件</span>🎉🎉
@@ -55,10 +55,11 @@
 					<h3>イベント情報</h3>
 					<!--11/04(日) 11:30- (11:15開場) <a href="https://twitter.com/iniadfeskoho/status/1057471833824358402">VTuberトークセッション ～次のバ美肉はキミだ～</a><br />-->
 					12/30(日) <a href="https://twitter.com/tomari_mari/status/1058271863183335425">コミックマーケット95 2日目 東ス-23a サークル「SoftGummy」</a>
+					<h3>ボタンの最終更新日時</h3>
+					{{ lastModified }}
 				</p>
 			</el-header>
-			<el-main>
-				<hr />
+			<el-main style="padding: 0.5em;">
 				<el-tabs value="byCategory" type="border-card">
 					<el-tab-pane label="カテゴリごと" name="byCategory">
 						<div v-for="(tracks, category) in categories">
@@ -89,7 +90,6 @@
 					</el-tab-pane>
 				</el-tabs>
 				<player ref="player" v-bind:volume="volume"></player>
-				<hr />
 			</el-main>
 			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
 				<el-row style="margin: 0.5em;">

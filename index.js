@@ -40,7 +40,8 @@ async function init() {
 			archives: {},
 			archiveInfo: {},
 			track: nullTrack,
-			volume: 0.5
+			volume: 0.5,
+			lastModified: null
 		},
 		methods: {
 			play: function (track) {
@@ -93,6 +94,7 @@ async function init() {
 	app.categories = categories;
 	app.archives = archives;
 	app.archiveInfo = trackdata.archiveInfo;
+	app.lastModified = new Date(response.headers.get("Last-Modified")).toLocaleString("ja-JP");
 	soundRoot = trackdata.soundRoot;
 }
 
