@@ -1005,11 +1005,20 @@
 			}
 		},
 		{
-			"title": "あよいしょっ",
+			"title": "あよいしょっ1",
 			"path": "62.mp3",
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "音" ],
 			"source": "https://youtu.be/3frYv1r-SJA?t=31m27s",
+			"relatives": {
+			}
+		},
+		{
+			"title": "あよいしょっ2",
+			"path": "432.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=3152",
 			"relatives": {
 			}
 		},
@@ -4107,6 +4116,69 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/zvhx2jrAbLU?t=2837",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ストップ！",
+			"path": "431.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=3133",
+			"relatives": {
+			}
+		},
+		{
+			"title": "かしこかろー？",
+			"path": "433.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=3245",
+			"relatives": {
+			}
+		},
+		{
+			"title": "そっちじゃないんだなー",
+			"path": "434.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=3698",
+			"relatives": {
+			}
+		},
+		{
+			"title": "飛ぶとこみてて・・・",
+			"path": "435.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=3882",
+			"relatives": {
+			}
+		},
+		{
+			"title": "再就職のチャンス",
+			"path": "436.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=4150",
+			"relatives": {
+			}
+		},
+		{
+			"title": "助かってないんだよ！",
+			"path": "437.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=4874",
+			"relatives": {
+			}
+		},
+		{
+			"title": "へたくそ！",
+			"path": "438.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=5278",
 			"relatives": {
 			}
 		}
