@@ -1356,6 +1356,15 @@
 			}
 		},
 		{
+			"title": "ｵﾎｰ!7",
+			"path": "441.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=6456",
+			"relatives": {
+			}
+		},
+		{
 			"title": "ﾄﾞﾔｰ",
 			"path": "94.mp3",
 			"actor": [ "兎鞠まり" ],
@@ -2108,6 +2117,15 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/UrwUreqBE_g?t=156",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よいしょ×3 3",
+			"path": "443.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=6550",
 			"relatives": {
 			}
 		},
@@ -4179,6 +4197,51 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/zvhx2jrAbLU?t=5278",
+			"relatives": {
+			}
+		},
+		{
+			"title": "なんでも壊せると思うな",
+			"path": "439.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=5967",
+			"relatives": {
+			}
+		},
+		{
+			"title": "とまりが居ないとなんもできないんだから～",
+			"path": "440.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=6073",
+			"relatives": {
+			}
+		},
+		{
+			"title": "Go!",
+			"path": "442.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=6490",
+			"relatives": {
+			}
+		},
+		{
+			"title": "でしょー！",
+			"path": "444.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=6550",
+			"relatives": {
+			}
+		},
+		{
+			"title": "こんなやつ海に落としてやる",
+			"path": "445.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/zvhx2jrAbLU?t=7076",
 			"relatives": {
 			}
 		}
