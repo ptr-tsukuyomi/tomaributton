@@ -246,6 +246,11 @@
 			"url": "https://www.youtube.com/watch?v=vnWZeLL2dWg",
 			"date": "2018/11/17"
 		},
+		"YT:3RgA3n3mA7o": {
+			"title": "【Let'GO！ イーブイ】　おじさんが征く！",
+			"url": "https://www.youtube.com/watch?v=3RgA3n3mA7o",
+			"date": "2018/11/18"
+		},
 		"SR": {
 			"title": "SHOWROOM"
 		}
@@ -4242,6 +4247,87 @@
 			"actor": [ "兎鞠まり" ],
 			"tags": [ "言葉" ],
 			"source": "https://youtu.be/zvhx2jrAbLU?t=7076",
+			"relatives": {
+			}
+		},
+		{
+			"title": "チューニング",
+			"path": "446.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=36",
+			"relatives": {
+			}
+		},
+		{
+			"title": "間違えて配信したことにする",
+			"path": "447.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=61",
+			"relatives": {
+			}
+		},
+		{
+			"title": "よーしやっちまうぞー",
+			"path": "448.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=80",
+			"relatives": {
+			}
+		},
+		{
+			"title": "Joy-Con",
+			"path": "449.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=96",
+			"relatives": {
+			}
+		},
+		{
+			"title": "ストラップないがち",
+			"path": "450.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=125",
+			"relatives": {
+			}
+		},
+		{
+			"title": "限界兎鞠1",
+			"path": "451.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=140",
+			"relatives": {
+			}
+		},
+		{
+			"title": "限界兎鞠2",
+			"path": "453.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=174",
+			"relatives": {
+			}
+		},
+		{
+			"title": "賢いのでアメリカ語でやりま…せん",
+			"path": "452.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=160",
+			"relatives": {
+			}
+		},
+		{
+			"title": "なんだこのおっさん (オーキド博士)",
+			"path": "454.mp3",
+			"actor": [ "兎鞠まり" ],
+			"tags": [ "言葉" ],
+			"source": "https://youtu.be/3RgA3n3mA7o?t=180",
 			"relatives": {
 			}
 		}
