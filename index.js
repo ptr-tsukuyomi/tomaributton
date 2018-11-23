@@ -5,7 +5,7 @@ Vue.component("play-button", {
 	template: `<el-button v-on:click="$emit('play', track)" v-bind:id="track.id">{{ track.title }}</el-button>`
 });
 
-let nullTrack = { title: null, path: "" };
+let nullTrack = { id: null, title: null, path: "" };
 
 Vue.component("player", {
 	props: ["volume"],

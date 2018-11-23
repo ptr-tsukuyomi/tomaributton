@@ -8,9 +8,9 @@
 	<title>兎鞠まりボタン</title>
 
 	<!-- 開発用 -->
-	<!--<script src="https://unpkg.com/vue"></script> -->
+	<script src="https://unpkg.com/vue"></script> 
 	<!-- 本番用 -->
-	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<!--	<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
 
 	<script src="https://unpkg.com/element-ui"></script>
 
@@ -81,8 +81,10 @@
 						<h3>イベント情報</h3>
 						<!--11/04(日) 11:30- (11:15開場) <a href="https://twitter.com/iniadfeskoho/status/1057471833824358402">VTuberトークセッション ～次のバ美肉はキミだ～</a><br />-->
 						12/30(日) <a href="https://twitter.com/tomari_mari/status/1058271863183335425">コミックマーケット95 2日目 東ス-23a サークル「SoftGummy」</a>
-						<h3>ボタンの最終更新日時</h3>
-						{{ lastModified }} <br />
+						<h3>ボタンについて</h3>
+						お気に入り機能を実装しました。右下のプレイヤーの☆を押すことで登録することができます。<br />
+						<br />
+						最終更新日時: {{ lastModified }} <br />
 						<a href="https://github.com/ptr-tsukuyomi/tomaributton/commits/master">簡易更新履歴</a>
 					</p>
 				</div>
@@ -126,7 +128,7 @@
 			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
 				<el-row style="margin: 0.5em;">
 					<el-col :span="24">
-						<div>
+						<div v-if="track.id != null">
 							<favorite-button v-bind:favorited="favorited" v-on:clicked="favoriteButtonClicked"></favorite-button>
 							<a v-bind:href="track.source" target="_blank">{{ track.title }}</a>
 						</div>
@@ -165,6 +167,7 @@
 				<p>
 					<h2>更新履歴</h2>
 					<ul>
+						<li>2018/11/24 お気に入り機能を実装しました。</li>
 						<li>2018/11/04 ボタンをアーカイブごとに配置したタブを用意しました。(β→γ)</li>
 						<li>2018/10/15 モバイル環境で拡大縮小が不要になって見やすくなったかも</li>
 						<li>2018/09/27 名称変更:「天才」→「自己暗示1」</li>
