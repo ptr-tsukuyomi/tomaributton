@@ -116,13 +116,20 @@
 							</template>
 						</div>
 					</el-tab-pane>
+					<el-tab-pane label="お気に入り" name="favorites">
+						<div v-if="favorites.length == 0">お気に入りがありません。</div>
+						<play-button v-for="e in favorites" v-bind:track="tracks[e]" v-bind:key="tracks[e].title" v-on:play="play" style="margin: 0.25em;" />
+					</el-tab-pane>
 				</el-tabs>
 				<player ref="player" v-bind:volume="volume"></player>
 			</el-main>
 			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
 				<el-row style="margin: 0.5em;">
 					<el-col :span="24">
-						<div><a v-bind:href="track.source" target="_blank">{{ track.title }}</a></div>
+						<div>
+							<favorite-button v-bind:favorited="favorited" v-on:clicked="favoriteButtonClicked"></favorite-button>
+							<a v-bind:href="track.source" target="_blank">{{ track.title }}</a>
+						</div>
 					</el-col>
 				</el-row>
 				<el-row style="margin: 0.5em;">

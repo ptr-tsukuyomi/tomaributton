@@ -2,7 +2,7 @@ let soundRoot = "";
 
 Vue.component("play-button", {
 	props: ["track"],
-	template: `<el-button v-on:click="$emit('play', track)">{{ track.title }}</el-button>`
+	template: `<el-button v-on:click="$emit('play', track)" v-bind:id="track.id">{{ track.title }}</el-button>`
 });
 
 let nullTrack = { title: null, path: "" };
@@ -31,35 +31,80 @@ Vue.component("stop-button", {
 	template: `<el-button type="danger" plain circle v-on:click="$emit('stop')">とめる</el-button>`
 });
 
+Vue.component("favorite-button", {
+	props: ["favorited"],
+	template: `<img v-on:click="click" v-bind:src="favorited ? 'favorited.png' : 'unfavorited.png'" style="width: 1em; height:1em;"></img>`,
+	methods: {
+		click: function (e) {
+			this.$emit("clicked");
+		}
+	}
+});
+
 async function init() {
 	let app = new Vue({
 		el: "#app",
 		data: {
-			tracks: [],
+			tracks: {},
 			categories: {},
 			archives: {},
 			archiveInfo: {},
+			favorites: [],
 			track: nullTrack,
 			volume: 0.5,
-			lastModified: null
+			lastModified: null,
+			favorited: false
 		},
 		methods: {
 			play: function (track) {
 				this.track = track;
 				this.$refs.player.play(track);
+
+				this.favorited = false;
+				for (let e of this.favorites) {
+					if (e == this.track.id) {
+						this.favorited = true;
+						break;
+					}
+				}
 			},
 			stopButtonClicked: function () {
 				this.$refs.player.stop();
+			},
+			favoriteButtonClicked: function () {
+				let newState = !this.favorited;
+				this.favorited = newState;
+
+				if (newState) {
+					// add
+					this.favorites.push(this.track.id);
+				} else {
+					// delete
+					this.favorites.forEach((e, i) => {
+						if (e == this.track.id) {
+							this.favorites.splice(i, 1);
+						}
+					});
+				}
+				window.localStorage.setItem("favorited", JSON.stringify(this.favorites));
 			}
 		}
 	});
 	window.app = app;
 
+	//// URLにボタンが含まれていた場合は移動 // ボタンのレンダリングが終わってからじゃないとダメ
+	//let hash = window.location.hash;
+	//if (hash != null) {
+	//	window.location.assign(hash);
+	//}
+
+	// データのロード
 	let response = await fetch("./contents.json");
 	let trackdata = await response.json();
 	let categories = {};
 	let archives = {};
-	
+
+	// アーカイブ情報の日付によるソート
 	let archiveInfoArray = Array.from(new Map(Object.entries(trackdata.archiveInfo)));
 	archiveInfoArray.sort((a, b) => {
 		if (a[1].date < b[1].date) return 1;
@@ -71,6 +116,9 @@ async function init() {
 	}
 	archives["unknown"] = [];
 
+	let tracks = {};
+
+	// 個々ボタンをカテゴリ・アーカイブごとに振り分け
 	for (let e of trackdata.tracks) {
 		let category = e.tags[0];
 		if (category == "その他") continue;
@@ -90,7 +138,20 @@ async function init() {
 		} else {
 			archives["unknown"].push(e);
 		}
+
+		tracks[e.id] = e;
 	}
+
+	// お気に入りの読み込み
+	let favoritedJson = window.localStorage.getItem("favorited");
+	if (favoritedJson == null) {
+		app.favoriteds = [];
+	} else {
+		let favorites = JSON.parse(favoritedJson);
+		app.favorites = favorites;
+	}
+
+	app.tracks = tracks;
 	app.categories = categories;
 	app.archives = archives;
 	app.archiveInfo = trackdata.archiveInfo;
