@@ -251,6 +251,11 @@
       "url": "https://www.youtube.com/watch?v=3RgA3n3mA7o",
       "date": "2018/11/18"
     },
+	"YT:apKK3PoKt3A":  {
+      "title": "ぽえかきしようぜ！　あくきーかんがえる",
+      "url": "https://www.youtube.com/watch?v=apKK3PoKt3A",
+      "date": "2018/11/29"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -6130,7 +6135,7 @@
       "id": "445"
     },
     {
-      "title": "チューニング",
+      "title": "チューニング1",
       "path": "446.mp3",
       "actor": [
         "兎鞠まり"
@@ -6141,6 +6146,19 @@
       "source": "https://youtu.be/3RgA3n3mA7o?t=36",
       "relatives": {},
       "id": "446"
+    },
+    {
+      "title": "チューニング2",
+      "id": "543",
+      "path": "543.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=98",
+      "relatives": {}
     },
     {
       "title": "間違えて配信したことにする",
@@ -7323,6 +7341,84 @@
         "あいさつ"
       ],
       "source": "https://youtu.be/3RgA3n3mA7o?t=3726",
+      "relatives": {}
+    },
+    {
+      "title": "わーわー",
+      "id": "544",
+      "path": "544.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=202",
+      "relatives": {}
+    },
+    {
+      "title": "助かる",
+      "id": "545",
+      "path": "545.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=215",
+      "relatives": {}
+    },
+    {
+      "title": "とまり・はげ・まり",
+      "id": "546",
+      "path": "546.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=285",
+      "relatives": {}
+    },
+    {
+      "title": "裸ニーソ",
+      "id": "547",
+      "path": "547.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=300",
+      "relatives": {}
+    },
+    {
+      "title": "新しい娘",
+      "id": "548",
+      "path": "548.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=379",
+      "relatives": {}
+    },
+    {
+      "title": "にんじんかなーやっぱｗ",
+      "id": "549",
+      "path": "549.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=500",
       "relatives": {}
     }
   ]
