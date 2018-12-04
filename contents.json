@@ -256,6 +256,11 @@
       "url": "https://www.youtube.com/watch?v=apKK3PoKt3A",
       "date": "2018/11/29"
 	},
+	"YT:_Dd74LhZbO8":  {
+      "title": "【Splatoon２】すぷらやろまい！",
+      "url": "https://www.youtube.com/watch?v=_Dd74LhZbO8",
+      "date": "2018/11/30"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -3596,6 +3601,58 @@
       "id": "228"
     },
     {
+      "title": "危ない5",
+      "id": "562",
+      "path": "562.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=308",
+      "relatives": {}
+    },
+    {
+      "title": "危ない6",
+      "id": "564",
+      "path": "564.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=473",
+      "relatives": {}
+    },
+    {
+      "title": "危ない7",
+      "id": "567",
+      "path": "567.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=2015",
+      "relatives": {}
+    },
+    {
+      "title": "危ない8",
+      "id": "568",
+      "path": "568.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=2025",
+      "relatives": {}
+    },
+    {
       "title": "よっこいしょー！",
       "path": "227.mp3",
       "actor": [
@@ -5992,7 +6049,7 @@
       "id": "431"
     },
     {
-      "title": "かしこかろー？",
+      "title": "かしこかろー？1",
       "path": "433.mp3",
       "actor": [
         "兎鞠まり"
@@ -7497,6 +7554,149 @@
         "言葉"
       ],
       "source": "https://www.youtube.com/watch?v=apKK3PoKt3A&t=3031",
+      "relatives": {}
+    },
+    {
+      "title": "イカじゃー！！！1",
+      "id": "556",
+      "path": "556.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=43",
+      "relatives": {}
+    },
+    {
+      "title": "イカじゃー！！！2",
+      "id": "557",
+      "path": "557.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=56",
+      "relatives": {}
+    },
+    {
+      "title": "ヨシ！",
+      "id": "558",
+      "path": "558.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=61",
+      "relatives": {}
+    },
+    {
+      "title": "かしこかろー？2",
+      "id": "559",
+      "path": "559.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=227",
+      "relatives": {}
+    },
+    {
+      "title": "鼓膜消費",
+      "id": "560",
+      "path": "560.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=245",
+      "relatives": {}
+    },
+    {
+      "title": "やってやんよ！！",
+      "id": "561",
+      "path": "561.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=279",
+      "relatives": {}
+    },
+    {
+      "title": "焦りすぎ焦りすぎ",
+      "id": "563",
+      "path": "563.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=334",
+      "relatives": {}
+    },
+    {
+      "title": "ぱぱーぱぱぱーぱー",
+      "id": "565",
+      "path": "565.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=1220",
+      "relatives": {}
+    },
+    {
+      "title": "いっぱい倒した",
+      "id": "566",
+      "path": "566.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=1340",
+      "relatives": {}
+    },
+    {
+      "title": "よかったよかった",
+      "id": "569",
+      "path": "569.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=2082",
+      "relatives": {}
+    },
+    {
+      "title": "疲れた～",
+      "id": "570",
+      "path": "570.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=2087",
       "relatives": {}
     }
   ]
