@@ -53,28 +53,25 @@ async function init() {
 			track: nullTrack,
 			volume: 0.5,
 			lastModified: null,
-			favorited: false
+			isFavorited: false
 		},
 		methods: {
 			play: function (track) {
 				this.track = track;
-				this.$refs.player.play(track);
+				let isFavorited = this.track.isFavorited;
+				this.isFavorited = isFavorited == undefined ? false : isFavorited;
 
-				this.favorited = false;
-				for (let e of this.favorites) {
-					if (e == this.track.id) {
-						this.favorited = true;
-						break;
-					}
-				}
+				this.$refs.player.play(track);
 			},
 			stopButtonClicked: function () {
 				this.$refs.player.stop();
 			},
 			favoriteButtonClicked: function () {
-				let newState = !this.favorited;
-				this.favorited = newState;
+				let newState = !this.isFavorited;
+				this.isFavorited = newState;
+				this.track.isFavorited = newState;
 
+				// localStorageの更新
 				if (newState) {
 					// add
 					this.favorites.push(this.track.id);
@@ -91,12 +88,6 @@ async function init() {
 		}
 	});
 	window.app = app;
-
-	//// URLにボタンが含まれていた場合は移動 // ボタンのレンダリングが終わってからじゃないとダメ
-	//let hash = window.location.hash;
-	//if (hash != null) {
-	//	window.location.assign(hash);
-	//}
 
 	// データのロード
 	let response = await fetch("./contents.json");
@@ -120,6 +111,7 @@ async function init() {
 
 	// 個々ボタンをカテゴリ・アーカイブごとに振り分け
 	for (let e of trackdata.tracks) {
+		// カテゴリごと
 		let category = e.tags[0];
 		if (category == "その他") continue;
 		if (categories[category] == undefined) {
@@ -149,6 +141,10 @@ async function init() {
 	} else {
 		let favorites = JSON.parse(favoritedJson);
 		app.favorites = favorites;
+
+		for (let e of app.favorites) {
+			tracks[e].isFavorited = true;
+		}
 	}
 
 	app.tracks = tracks;

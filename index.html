@@ -133,7 +133,7 @@
 				<el-row style="margin: 0.5em;">
 					<el-col :span="24">
 						<div v-if="track.id != null">
-							<favorite-button v-bind:favorited="favorited" v-on:clicked="favoriteButtonClicked"></favorite-button>
+							<favorite-button v-bind:favorited="isFavorited" v-on:clicked="favoriteButtonClicked"></favorite-button>
 							<a v-bind:href="track.source" target="_blank">{{ track.title }}</a>
 						</div>
 					</el-col>
