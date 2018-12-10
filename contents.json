@@ -266,6 +266,11 @@
       "url": "https://www.youtube.com/watch?v=kiGjZxqBMb0",
       "date": "2018/11/30"
 	},
+	"YT:nnDfUrSGvOY":  {
+      "title": "雑談しながらアクキーの作業はいしん！",
+      "url": "https://www.youtube.com/watch?v=nnDfUrSGvOY",
+      "date": "2018/12/01"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -343,6 +348,19 @@
       "source": "https://youtu.be/zvhx2jrAbLU?t=157",
       "relatives": {},
       "id": "320"
+    },
+    {
+      "title": "ふんふんふんふんふんふん3",
+      "id": "582",
+      "path": "582.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "相槌"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=6979",
+      "relatives": {}
     },
     {
       "title": "ふんふんふんふんふん1",
@@ -1439,6 +1457,19 @@
       "id": "145"
     },
     {
+      "title": "ばかにしてんのかー？5",
+      "id": "579",
+      "path": "579.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "威嚇"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=4268",
+      "relatives": {}
+    },
+    {
       "title": "女児化1",
       "path": "64.mp3",
       "actor": [
@@ -1879,6 +1910,19 @@
       "source": "https://youtu.be/zvhx2jrAbLU?t=6456",
       "relatives": {},
       "id": "441"
+    },
+    {
+      "title": "ｵﾎｰ!8",
+      "id": "583",
+      "path": "583.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "相槌"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=7026",
+      "relatives": {}
     },
     {
       "title": "ﾄﾞﾔｰ",
@@ -5139,6 +5183,19 @@
       "id": "419"
     },
     {
+      "title": "やったでおい！4",
+      "id": "573",
+      "path": "573.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=3179",
+      "relatives": {}
+    },
+    {
       "title": "う゛ぇ゛ぇ゛1",
       "path": "357.mp3",
       "actor": [
@@ -5163,6 +5220,19 @@
       "source": "https://youtu.be/vnWZeLL2dWg?t=653",
       "relatives": {},
       "id": "358"
+    },
+    {
+      "title": "う゛ぇ゛ぇ゛3",
+      "id": "574",
+      "path": "574.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=3223",
+      "relatives": {}
     },
     {
       "title": "おはようございナース🍆1",
@@ -6730,7 +6800,7 @@
       "relatives": {}
     },
     {
-      "title": "きったね！",
+      "title": "きったね！1",
       "id": "471",
       "path": "471.mp3",
       "actor": [
@@ -6740,6 +6810,19 @@
         "言葉"
       ],
       "source": "https://youtu.be/3RgA3n3mA7o?t=838",
+      "relatives": {}
+    },
+    {
+      "title": "きったね！2",
+      "id": "575",
+      "path": "575.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=3225",
       "relatives": {}
     },
     {
@@ -7702,6 +7785,97 @@
         "言葉"
       ],
       "source": "https://www.youtube.com/watch?v=_Dd74LhZbO8&t=2087",
+      "relatives": {}
+    },
+    {
+      "title": "ばぶー",
+      "id": "571",
+      "path": "571.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=656",
+      "relatives": {}
+    },
+    {
+      "title": "オギャっていけー？",
+      "id": "572",
+      "path": "572.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=659",
+      "relatives": {}
+    },
+    {
+      "title": "兎鞠・ママ・まり1",
+      "id": "576",
+      "path": "576.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=3532",
+      "relatives": {}
+    },
+    {
+      "title": "兎鞠・ママ・まり2",
+      "id": "577",
+      "path": "577.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=3532",
+      "relatives": {}
+    },
+    {
+      "title": "おせき1",
+      "id": "578",
+      "path": "578.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=3703",
+      "relatives": {}
+    },
+    {
+      "title": "ロリ花ノートママに対して",
+      "id": "580",
+      "path": "580.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=4272",
+      "relatives": {}
+    },
+    {
+      "title": "ばーっかにしてくれちゃってー",
+      "id": "581",
+      "path": "581.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/nnDfUrSGvOY?t=5497",
       "relatives": {}
     }
   ]
