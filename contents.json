@@ -271,6 +271,11 @@
       "url": "https://www.youtube.com/watch?v=nnDfUrSGvOY",
       "date": "2018/12/01"
 	},
+	"YT:5jBd5WOX3QI":  {
+      "title": "みんなの悩みをマシュマロでかいけつとまり",
+      "url": "https://www.youtube.com/watch?v=5jBd5WOX3QI",
+      "date": "2018/11/20"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -1977,6 +1982,19 @@
       "id": "124"
     },
     {
+      "title": "🐬3",
+      "id": "587",
+      "path": "587.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=945",
+      "relatives": {}
+    },
+    {
       "title": "えっ？",
       "path": "100.mp3",
       "actor": [
@@ -1990,7 +2008,7 @@
       "id": "100"
     },
     {
-      "title": "はい次",
+      "title": "はい次1",
       "path": "101.mp3",
       "actor": [
         "兎鞠まり"
@@ -2001,6 +2019,19 @@
       "source": "https://youtu.be/g_fXfZF7GOU?t=2860",
       "relatives": {},
       "id": "101"
+    },
+    {
+      "title": "はい次2",
+      "id": "586",
+      "path": "586.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=518",
+      "relatives": {}
     },
     {
       "title": "おあめ",
@@ -7876,6 +7907,149 @@
         "言葉"
       ],
       "source": "https://youtu.be/nnDfUrSGvOY?t=5497",
+      "relatives": {}
+    },
+    {
+      "title": "まぁまぁまぁまぁまぁ",
+      "id": "584",
+      "path": "584.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=393",
+      "relatives": {}
+    },
+    {
+      "title": "ゆるゆる💩じゃないんじゃ",
+      "id": "585",
+      "path": "585.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=432",
+      "relatives": {}
+    },
+    {
+      "title": "やだぁ・・・ やだぁ・・・",
+      "id": "588",
+      "path": "588.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=955",
+      "relatives": {}
+    },
+    {
+      "title": "やだー",
+      "id": "589",
+      "path": "589.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=963",
+      "relatives": {}
+    },
+    {
+      "title": "限界名取(物まね)",
+      "id": "590",
+      "path": "590.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=1008",
+      "relatives": {}
+    },
+    {
+      "title": "患者さん",
+      "id": "591",
+      "path": "591.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=1624",
+      "relatives": {}
+    },
+    {
+      "title": "おまかせください",
+      "id": "592",
+      "path": "592.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=1628",
+      "relatives": {}
+    },
+    {
+      "title": "ギュッとしてムギュッ",
+      "id": "593",
+      "path": "593.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=1628",
+      "relatives": {}
+    },
+    {
+      "title": "出たー！",
+      "id": "594",
+      "path": "594.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=2688",
+      "relatives": {}
+    },
+    {
+      "title": "きゅっぷい",
+      "id": "595",
+      "path": "595.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=2688",
+      "relatives": {}
+    },
+    {
+      "title": "兎鞠まりの配信の効能",
+      "id": "596",
+      "path": "596.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=3008",
       "relatives": {}
     }
   ]
