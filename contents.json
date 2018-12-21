@@ -276,6 +276,11 @@
       "url": "https://www.youtube.com/watch?v=5jBd5WOX3QI",
       "date": "2018/11/20"
 	},
+	"YT:Cq5zBeC2v2Y":  {
+      "title": "【祝】登録者15000人突破記念！飲酒雑談！",
+      "url": "https://www.youtube.com/watch?v=Cq5zBeC2v2Y",
+      "date": "2018/12/02"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -847,6 +852,19 @@
       "source": "https://youtu.be/zvhx2jrAbLU?t=2979",
       "relatives": {},
       "id": "430"
+    },
+    {
+      "title": "ふんふんふんふん11",
+      "id": "598",
+      "path": "598.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=528",
+      "relatives": {}
     },
     {
       "title": "1000人でひもQ",
@@ -8050,6 +8068,19 @@
         "言葉"
       ],
       "source": "https://www.youtube.com/watch?v=5jBd5WOX3QI&t=3008",
+      "relatives": {}
+    },
+    {
+      "title": "かちゅぜちゅ",
+      "id": "597",
+      "path": "597.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=431",
       "relatives": {}
     }
   ]
