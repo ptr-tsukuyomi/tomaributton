@@ -1075,6 +1075,19 @@
       "id": "34"
     },
     {
+      "title": "メス堕ちコールセンター4",
+      "id": "599",
+      "path": "599.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "話"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=811",
+      "relatives": {}
+    },
+    {
       "title": "はーい！",
       "path": "35.mp3",
       "actor": [
@@ -4388,6 +4401,19 @@
       "source": "https://youtu.be/FB7baMR1zqA?t=1535",
       "relatives": {},
       "id": "298"
+    },
+    {
+      "title": "くしゃみ(天然)3",
+      "id": "604",
+      "path": "604.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=3071",
+      "relatives": {}
     },
     {
       "title": "くしゃみ(こより)",
@@ -8081,6 +8107,84 @@
         "言葉"
       ],
       "source": "https://youtu.be/Cq5zBeC2v2Y?t=431",
+      "relatives": {}
+    },
+    {
+      "title": "お゛き゛ゃ゛あ゛あ゛",
+      "id": "600",
+      "path": "600.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=1472",
+      "relatives": {}
+    },
+    {
+      "title": "お酒の魅力",
+      "id": "601",
+      "path": "601.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "話"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=1787",
+      "relatives": {}
+    },
+    {
+      "title": "世知辛いのじゃ～",
+      "id": "602",
+      "path": "602.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=1787",
+      "relatives": {}
+    },
+    {
+      "title": "メスガキホイホイ",
+      "id": "603",
+      "path": "603.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "話"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=1934",
+      "relatives": {}
+    },
+    {
+      "title": "仮面ライダーについて語る(早口)",
+      "id": "605",
+      "path": "605.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "話"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=3099",
+      "relatives": {}
+    },
+    {
+      "title": "ジョーズ？",
+      "id": "606",
+      "path": "606.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/Cq5zBeC2v2Y?t=3669",
       "relatives": {}
     }
   ]
