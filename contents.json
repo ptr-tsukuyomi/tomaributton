@@ -281,6 +281,11 @@
       "url": "https://www.youtube.com/watch?v=Cq5zBeC2v2Y",
       "date": "2018/12/02"
 	},
+	"YT:4J4S54TqXJw":  {
+      "title": "【心理テスト】兎鞠の心をまるはだか！【おじさんがJKっぽいことするやつ】",
+      "url": "https://www.youtube.com/watch?v=4J4S54TqXJw",
+      "date": "2018/12/06"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -8185,6 +8190,123 @@
         "音"
       ],
       "source": "https://youtu.be/Cq5zBeC2v2Y?t=3669",
+      "relatives": {}
+    },
+    {
+      "title": "お水・開かない・まり",
+      "id": "607",
+      "path": "607.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=292",
+      "relatives": {}
+    },
+    {
+      "title": "あ、マグロ！",
+      "id": "608",
+      "path": "608.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=328",
+      "relatives": {}
+    },
+    {
+      "title": "あ！あれま！",
+      "id": "609",
+      "path": "609.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=670",
+      "relatives": {}
+    },
+    {
+      "title": "あれまぁ1",
+      "id": "610",
+      "path": "610.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=670",
+      "relatives": {}
+    },
+    {
+      "title": "あれまぁ2",
+      "id": "615",
+      "path": "615.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=1566",
+      "relatives": {}
+    },
+    {
+      "title": "何でもするから許して",
+      "id": "611",
+      "path": "611.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=1223",
+      "relatives": {}
+    },
+    {
+      "title": "Daisuke",
+      "id": "612",
+      "path": "612.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=3130",
+      "relatives": {}
+    },
+    {
+      "title": "めっちゃ強いじゃん",
+      "id": "613",
+      "path": "613.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=1392",
+      "relatives": {}
+    },
+    {
+      "title": "Daisuki",
+      "id": "614",
+      "path": "614.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/4J4S54TqXJw?t=1404",
       "relatives": {}
     }
   ]
