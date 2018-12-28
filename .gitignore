@@ -1,6 +1,8 @@
 *.xdt
 sound/
+sandbox/
 .vs/
 favicon.*
 favorited.png
 unfavorited.png
+bundle.js
