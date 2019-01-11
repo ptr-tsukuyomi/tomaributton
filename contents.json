@@ -286,6 +286,11 @@
       "url": "https://www.youtube.com/watch?v=4J4S54TqXJw",
       "date": "2018/12/06"
 	},
+	"YT:QH8FM7JEweg":  {
+      "title": "【1on1】リスナーさん参加型！大乱闘スマッシュブラザーズSPECIAL！【大乱闘】",
+      "url": "https://www.youtube.com/watch?v=QH8FM7JEweg",
+      "date": "2018/12/07"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -2663,6 +2668,19 @@
       "id": "427"
     },
     {
+      "title": "ちょっと待って3",
+      "id": "646",
+      "path": "646.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=859",
+      "relatives": {}
+    },
+    {
       "title": "待ってぇ…",
       "path": "206.mp3",
       "actor": [
@@ -3078,6 +3096,45 @@
       "source": "https://youtu.be/iQ5U0xF-RTQ?t=4079",
       "relatives": {},
       "id": "205"
+    },
+    {
+      "title": "ダメージ6",
+      "id": "633",
+      "path": "633.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=346",
+      "relatives": {}
+    },
+    {
+      "title": "ダメージ7",
+      "id": "634",
+      "path": "634.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=415",
+      "relatives": {}
+    },
+    {
+      "title": "ダメージ8",
+      "id": "654",
+      "path": "654.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=1840",
+      "relatives": {}
     },
     {
       "title": "はーいこんばんはー",
@@ -3587,7 +3644,7 @@
       "id": "218"
     },
     {
-      "title": "わー！",
+      "title": "わー！1",
       "path": "219.mp3",
       "actor": [
         "兎鞠まり"
@@ -3598,6 +3655,19 @@
       "source": "https://youtu.be/UrwUreqBE_g?t=685",
       "relatives": {},
       "id": "219"
+    },
+    {
+      "title": "わー！2",
+      "id": "644",
+      "path": "644.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=615",
+      "relatives": {}
     },
     {
       "title": "羽ばたくおじさん1",
@@ -3662,6 +3732,19 @@
         "言葉"
       ],
       "source": "https://youtu.be/3RgA3n3mA7o?t=3426",
+      "relatives": {}
+    },
+    {
+      "title": "よいしょー！4",
+      "id": "664",
+      "path": "664.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2844",
       "relatives": {}
     },
     {
@@ -4512,6 +4595,19 @@
       "id": "292"
     },
     {
+      "title": "感嘆2",
+      "id": "640",
+      "path": "640.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=532",
+      "relatives": {}
+    },
+    {
       "title": "コミケ(C95)の本について",
       "path": "295.mp3",
       "actor": [
@@ -5286,6 +5382,19 @@
         "言葉"
       ],
       "source": "https://youtu.be/nnDfUrSGvOY?t=3179",
+      "relatives": {}
+    },
+    {
+      "title": "やったでおい！5",
+      "id": "648",
+      "path": "648.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=947",
       "relatives": {}
     },
     {
@@ -8336,7 +8445,7 @@
       "relatives": {}
     },
     {
-      "title": "コラー！",
+      "title": "コラー！1",
       "id": "617",
       "path": "617.mp3",
       "actor": [
@@ -8346,6 +8455,19 @@
         "言葉"
       ],
       "source": "https://youtu.be/4J4S54TqXJw?t=2231",
+      "relatives": {}
+    },
+    {
+      "title": "コラー！2",
+      "id": "645",
+      "path": "645.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=742",
       "relatives": {}
     },
     {
@@ -8515,6 +8637,383 @@
         "音"
       ],
       "source": "https://youtu.be/4J4S54TqXJw?t=5088",
+      "relatives": {}
+    },
+    {
+      "title": "わー！ゆるさねー！",
+      "id": "632",
+      "path": "632.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=332",
+      "relatives": {}
+    },
+    {
+      "title": "んわぁ1",
+      "id": "635",
+      "path": "635.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=427",
+      "relatives": {}
+    },
+    {
+      "title": "死んでしまいます",
+      "id": "636",
+      "path": "636.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=495",
+      "relatives": {}
+    },
+    {
+      "title": "強いよぉ",
+      "id": "637",
+      "path": "637.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=504",
+      "relatives": {}
+    },
+    {
+      "title": "おじさんに分からされたおじさん",
+      "id": "638",
+      "path": "638.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=518",
+      "relatives": {}
+    },
+    {
+      "title": "次のおじさん",
+      "id": "639",
+      "path": "639.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=523",
+      "relatives": {}
+    },
+    {
+      "title": "Next Ojisan",
+      "id": "641",
+      "path": "641.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=552",
+      "relatives": {}
+    },
+    {
+      "title": "やったりますよー！",
+      "id": "642",
+      "path": "642.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=555",
+      "relatives": {}
+    },
+    {
+      "title": "なにそれー！",
+      "id": "643",
+      "path": "643.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=615",
+      "relatives": {}
+    },
+    {
+      "title": "おじさんに抱きつかれた",
+      "id": "647",
+      "path": "647.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=928",
+      "relatives": {}
+    },
+    {
+      "title": "かかってこいよー！",
+      "id": "649",
+      "path": "649.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=993",
+      "relatives": {}
+    },
+    {
+      "title": "わ゛ぁ゛ー・・・",
+      "id": "650",
+      "path": "650.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=1020",
+      "relatives": {}
+    },
+    {
+      "title": "おじさんに追いかけられるおじさん",
+      "id": "651",
+      "path": "651.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=1198",
+      "relatives": {}
+    },
+    {
+      "title": "まだおじさん生きてる",
+      "id": "652",
+      "path": "652.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=1223",
+      "relatives": {}
+    },
+    {
+      "title": "ゴリラの呼び出し",
+      "id": "653",
+      "path": "653.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=1664",
+      "relatives": {}
+    },
+    {
+      "title": "チャンスはものにしてくぞー",
+      "id": "655",
+      "path": "655.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2267",
+      "relatives": {}
+    },
+    {
+      "title": "だめ！それ！",
+      "id": "656",
+      "path": "656.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2300",
+      "relatives": {}
+    },
+    {
+      "title": "うまーい！",
+      "id": "657",
+      "path": "657.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2418",
+      "relatives": {}
+    },
+    {
+      "title": "ナイスゥ！",
+      "id": "658",
+      "path": "658.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2455",
+      "relatives": {}
+    },
+    {
+      "title": "お〇っこためてる",
+      "id": "659",
+      "path": "659.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2458",
+      "relatives": {}
+    },
+    {
+      "title": "そんなお〇っこする？",
+      "id": "660",
+      "path": "660.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2529",
+      "relatives": {}
+    },
+    {
+      "title": "上手い！",
+      "id": "661",
+      "path": "661.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2571",
+      "relatives": {}
+    },
+    {
+      "title": "あ゛ぁ゛ぁ゛・・・",
+      "id": "662",
+      "path": "662.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2587",
+      "relatives": {}
+    },
+    {
+      "title": "このゴリラよぉ！",
+      "id": "663",
+      "path": "663.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2826",
+      "relatives": {}
+    },
+    {
+      "title": "危なかったー",
+      "id": "665",
+      "path": "665.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2869",
+      "relatives": {}
+    },
+    {
+      "title": "くぅ～ ゆるさねえからな～",
+      "id": "666",
+      "path": "666.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=2967",
+      "relatives": {}
+    },
+    {
+      "title": "おじ退治完了",
+      "id": "667",
+      "path": "667.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=3139",
+      "relatives": {}
+    },
+    {
+      "title": "分からせてやるよー！",
+      "id": "668",
+      "path": "668.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=3164",
+      "relatives": {}
+    },
+    {
+      "title": "あぶーーーーない！",
+      "id": "669",
+      "path": "669.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/QH8FM7JEweg?t=3373",
       "relatives": {}
     }
   ]
