@@ -142,9 +142,13 @@ async function init() {
 		let favorites = JSON.parse(favoritedJson);
 		app.favorites = favorites;
 
-		for (let e of app.favorites) {
-			tracks[e].isFavorited = true;
-		}
+		app.favorites.forEach((e, i) => {
+			if (tracks[e] != undefined) {
+				tracks[e].isFavorited = true;
+			} else {
+				app.favorites.splice(i, 1);
+			}
+		});
 	}
 
 	app.tracks = tracks;
