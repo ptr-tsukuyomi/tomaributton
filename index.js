@@ -319,7 +319,13 @@ async function init() {
 		app.counter = counter;
 
 		for (let e of Object.keys(app.counter)) {
-			idToTracks[e].count = app.counter[e];
+			if (idToTracks[e] == undefined) {
+				console.info("unknown button id is found in counter, deleted it.", e);
+				delete app.counter[e];
+				window.localStorage.setItem("counter", JSON.stringify(app.counter));
+			} else {
+				idToTracks[e].count = app.counter[e];
+			}
 		}
 	}
 
