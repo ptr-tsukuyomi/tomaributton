@@ -8,20 +8,24 @@
 	<title>兎鞠まりボタン</title>
 
 	<!-- 開発用 -->
-<!--	<script src="https://unpkg.com/vue"></script>--> 
+	<script src="https://unpkg.com/vue"></script>
 	<!-- 本番用 -->
-	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+	<!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+
 	<script src="https://unpkg.com/element-ui"></script>
 
-	<script src="./index.js"></script>
+	<script src="./index2.js"></script>
+
+	<script src="https://www.youtube.com/player_api"></script>
 
 	<style type="text/css">
 		@import url("https://unpkg.com/element-ui/lib/theme-chalk/index.css");
 
-		*{
+		* {
 			font-family: sans-serif;
 		}
-		#title{
+
+		#title {
 			color: deeppink;
 		}
 
@@ -37,6 +41,7 @@
 			border-width: medium;
 			border-style: solid;
 		}
+
 		.box26 {
 			position: relative;
 			margin: 2em 0;
@@ -62,11 +67,21 @@
 			margin: 0;
 			padding: 0;
 		}
+
+		#ytpcontainer iframe {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: -1;
+			opacity: 0.3;
+		}
 	</style>
 </head>
 <body onload="init()">
 	<div style="padding: 0 0.5em;">
-		<h1 id="title">兎鞠まりボタンγ</h1>
+		<h1 id="title">兎鞠まりボタン RC</h1>
 		<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-dnt="true" data-show-count="false">Tweet</a>
 		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div>
@@ -86,7 +101,7 @@
 						<!--イベント情報: 11/02(金) 23:00- <a href="https://twitter.com/anzu_chaaaan/status/1055862518470520833">第二回兎鞠まり声真似選手権</a><br />-->
 						<h3>雑誌掲載情報</h3>
 						<a href="https://twitter.com/vtiq_comp/status/1054689216032993280">兎鞠まりちゃんへのQ&amp;A</a>が11/10(土)発売のVティークVol.02に掲載！
-<!--						<h3>イベント情報</h3>-->
+						<!--						<h3>イベント情報</h3>-->
 						<!--11/04(日) 11:30- (11:15開場) <a href="https://twitter.com/iniadfeskoho/status/1057471833824358402">VTuberトークセッション ～次のバ美肉はキミだ～</a><br />-->
 						<!--<div>
 							<h4>12/29-31(土、日、月) コミックマーケット95 ツクモさんの企業ブース</h4>
@@ -108,7 +123,10 @@
 						</div>-->
 
 						<h3>ボタンについて</h3>
-						お気に入り機能を実装しました。右下のプレイヤーの☆を押すことで登録することができます。<br />
+						グループ化の選択方法をタブからドロップダウンリストに変更しました。<br />
+						音量が保存されるようになりました。<br />
+						YouTubeの動画を埋め込むことができるようになりました。(その他カテゴリにテスト用ボタンがあります)<br />
+						ボタンを押した回数を記録するようにしました。押した回数ごとにボタンをグループ化することができます。<br />
 						<br />
 						最終更新日時: {{ lastModified }} <br />
 						<a href="https://github.com/ptr-tsukuyomi/tomaributton/commits/master">簡易更新履歴</a>
@@ -116,40 +134,45 @@
 				</div>
 			</el-header>
 			<el-main style="padding: 0.5em;">
-				<el-tabs value="byCategory" type="border-card">
-					<el-tab-pane label="カテゴリごと" name="byCategory">
-						<div v-for="(tracks, category) in categories">
-							<h2>{{ category }}</h2>
-							<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" style="margin: 0.25em;" />
-						</div>
-					</el-tab-pane>
-					<el-tab-pane label="アーカイブごと" name="byArchive">
-						<div v-for="(tracks, videoId) in archives">
-							<template v-if="tracks.length != 0">
-								<template v-if="archiveInfo[videoId] != undefined">
-									<template v-if="archiveInfo[videoId].url != undefined">
-										<h2>
-											<a v-bind:href="archiveInfo[videoId].url">{{ archiveInfo[videoId].title }}</a>
-										</h2>
-									</template>
-									<template v-if="archiveInfo[videoId].url == undefined">
-										<h2>{{ archiveInfo[videoId].title }}</h2>
-									</template>
-									<p v-if="archiveInfo[videoId].date != undefined">配信日: {{ archiveInfo[videoId].date }}</p>
-								</template>
-								<template v-if="archiveInfo[videoId] == undefined">
-									<h2>{{ videoId }}</h2>
-								</template>
-								<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="play" style="margin: 0.25em;" />
+				<el-select v-model="selectedGrouping">
+					<el-option key="category" label="カテゴリごとにグループ化" value="category"></el-option>
+					<el-option key="archive" label="アーカイブ(動画)ごとにグループ化" value="archive"></el-option>
+					<el-option key="count" label="ボタンの再生回数ごとにグループ化" value="count"></el-option>
+				</el-select>
+				<el-select v-model="filter">
+					<el-option key="none" label="フィルターなし" value="none"></el-option>
+					<el-option key="favorite" label="お気に入りのみ" value="favorite"></el-option>
+				</el-select>
+				<div v-for="[key, tracks] in orderedTracks">
+					<template v-if="selectedGrouping == 'category'">
+						<h2>{{ key }}</h2>
+					</template>
+					<template v-if="selectedGrouping == 'archive' && tracks.length != 0">
+						<template v-if="archiveInfo[key] != undefined">
+							<template v-if="archiveInfo[key].url != undefined">
+								<h2>
+									<a v-bind:href="archiveInfo[key].url">{{ archiveInfo[key].title }}</a>
+								</h2>
 							</template>
-						</div>
-					</el-tab-pane>
-					<el-tab-pane label="お気に入り" name="favorites">
-						<div v-if="favorites.length == 0">お気に入りがありません。</div>
-						<play-button v-for="e in favorites" v-bind:track="tracks[e]" v-bind:key="tracks[e].title" v-on:play="play" style="margin: 0.25em;" />
-					</el-tab-pane>
-				</el-tabs>
+							<template v-if="archiveInfo[key].url == undefined">
+								<h2>{{ archiveInfo[key].title }}</h2>
+							</template>
+							<p v-if="archiveInfo[key].date != undefined">配信日: {{ archiveInfo[key].date }}</p>
+						</template>
+						<template v-if="archiveInfo[key] == undefined">
+							<h2>{{ key }}</h2>
+						</template>
+					</template>
+					<template v-if="selectedGrouping == 'count'">
+						<h2>{{key}}回</h2>
+					</template>
+					<play-button v-for="e in tracks" v-bind:track="e" v-bind:key="e.title" v-on:play="playButtonClicked" style="margin: 0.25em;" />
+				</div>
+				<div v-if="orderedTracks.length == 0">
+					該当するボタンがありません。
+				</div>
 				<player ref="player" v-bind:volume="volume"></player>
+				<youtube-player ref="ytplayer"></youtube-player>
 			</el-main>
 			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
 				<el-row style="margin: 0.5em;">
@@ -162,7 +185,7 @@
 				</el-row>
 				<el-row style="margin: 0.5em;">
 					<el-col :span="16">
-						<el-slider v-model="volume" v-bind:min="0.0" v-bind:max="1.0" v-bind:step="0.01"></el-slider>
+						<el-slider v-on:change="volumeChanged" v-model="volume" v-bind:min="0.0" v-bind:max="1.0" v-bind:step="0.01"></el-slider>
 					</el-col>
 					<el-col :span="8" style="text-align:center;">
 						<stop-button v-on:stop="stopButtonClicked"></stop-button>
