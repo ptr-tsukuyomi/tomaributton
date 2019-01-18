@@ -291,9 +291,19 @@ async function init() {
 		let favorites = JSON.parse(favoritedJson);
 		app.favorites = favorites;
 
-		for (let e of app.favorites) {
-			idToTracks[e].isFavorited = true;
-		}
+		//for (let e of app.favorites) {
+
+		//	idToTracks[e].isFavorited = true;
+		//}
+		app.favorites.forEach((e, i) => {
+			if (idToTracks[e] == undefined) {
+				app.favorites.splice(i, 1);
+				console.info("unknown button id is found in favorites, deleted it.", e);
+				window.localStorage.setItem("favorited", JSON.stringify(app.favorites));
+			} else {
+				idToTracks[e].isFavorited = true;
+			}
+		});
 	}
 
 	// volume の読み込み
