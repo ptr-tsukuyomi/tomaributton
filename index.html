@@ -69,13 +69,13 @@
 		}
 
 		#ytpcontainer iframe {
-			position: fixed;
-			top: 0;
-			left: 0;
+			/*position: fixed;*/
+			/*top: 0;*/
+			/*left: 0;*/
 			width: 100%;
 			height: 100%;
-			z-index: -1;
-			opacity: 0.3;
+			/*z-index: -1;*/
+			/*opacity: 0.3;*/
 		}
 	</style>
 </head>
@@ -129,7 +129,10 @@
 							<li>グループ化の選択方法をタブからドロップダウンリストに変更しました。</li>
 							<li>フィルターを実装しました。お気に入りフィルターのみ実装されています。</li>
 							<li>音量が保存されるようになりました。</li>
-							<li>YouTubeの動画を埋め込むことができるようになりました。(その他カテゴリにテスト用ボタンがあります)</li>
+							<li>
+								YouTubeの動画を埋め込むことができるようになりました。(その他カテゴリにテスト用ボタンがあります)<br />
+								iOS端末ではブラウザの制約によりスクリプトから動画の再生を行うことができません。再生する場合は動画の再生ボタンをタップしてください。
+							</li>
 							<li>ボタンを押した回数を記録するようにしました。押した回数ごとにボタンをグループ化することができます。</li>
 						</ul>
 						最終更新日時: {{ lastModified }} <br />
@@ -176,9 +179,11 @@
 					該当するボタンがありません。
 				</div>
 				<player ref="player" v-bind:volume="volume"></player>
-				<youtube-player ref="ytplayer"></youtube-player>
 			</el-main>
 			<el-footer class="footer" style="padding: 0; height: initial; width: 20em;">
+				<el-row style="margin: 0.5em;">
+					<youtube-player ref="ytplayer"></youtube-player>
+				</el-row>
 				<el-row style="margin: 0.5em;">
 					<el-col :span="24">
 						<div v-if="track.id != null">
