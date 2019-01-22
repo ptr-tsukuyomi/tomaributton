@@ -291,6 +291,11 @@
       "url": "https://www.youtube.com/watch?v=QH8FM7JEweg",
       "date": "2018/12/07"
 	},
+	"YT:-Dog4KeLUvU":  {
+      "title": "【心音】残機なくなったらおしまい！心音びびびあうとらすとまり【腹筋ベルト】",
+      "url": "https://www.youtube.com/watch?v=-Dog4KeLUvU",
+      "date": "2018/12/13"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -597,7 +602,7 @@
         "兎鞠まり"
       ],
       "tags": [
-        "音"
+        "言葉"
       ],
       "source": "https://youtu.be/Gw1B--hYVHI?t=50m53s",
       "relatives": {},
@@ -1215,6 +1220,19 @@
       "id": "72"
     },
     {
+      "title": "悲鳴6",
+      "id": "675",
+      "path": "675.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=1378",
+      "relatives": {}
+    },
+    {
       "title": "うるせー！！",
       "path": "39.mp3",
       "actor": [
@@ -1429,7 +1447,7 @@
         "兎鞠まり"
       ],
       "tags": [
-        "音"
+        "言葉"
       ],
       "source": "https://youtu.be/3frYv1r-SJA?t=31m27s",
       "relatives": {},
@@ -9014,6 +9032,110 @@
         "言葉"
       ],
       "source": "https://youtu.be/QH8FM7JEweg?t=3373",
+      "relatives": {}
+    },
+    {
+      "title": "ういしょー",
+      "id": "670",
+      "path": "670.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=330",
+      "relatives": {}
+    },
+    {
+      "title": "びっくりポイント1",
+      "id": "671",
+      "path": "671.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=422",
+      "relatives": {}
+    },
+    {
+      "title": "上半身が寒い",
+      "id": "672",
+      "path": "672.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=570",
+      "relatives": {}
+    },
+    {
+      "title": "ロキ1",
+      "id": "673",
+      "path": "673.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "歌"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=615",
+      "relatives": {}
+    },
+    {
+      "title": "ロキ2",
+      "id": "674",
+      "path": "674.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "歌"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=685",
+      "relatives": {}
+    },
+    {
+      "title": "キレそう",
+      "id": "676",
+      "path": "676.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=1385",
+      "relatives": {}
+    },
+    {
+      "title": "何もしてないのに壊れた",
+      "id": "677",
+      "path": "677.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=1498",
+      "relatives": {}
+    },
+    {
+      "title": "なんだよぉ、なんだよぉ！",
+      "id": "678",
+      "path": "678.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/-Dog4KeLUvU?t=1550",
       "relatives": {}
     }
   ]
