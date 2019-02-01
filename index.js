@@ -1,5 +1,82 @@
 let soundRoot = "";
 
+Vue.component("youtube-player", {
+	props: ["track"],
+	data: function () {
+		return { player: null, ytpcontainer: null, oldDisplay: null, playingDetected: false };
+	},
+	methods: {
+		play: function (track) {
+			let internalVideoId = getVideoIdByURL(track.source);
+			if (internalVideoId.substring(0, 2) != "YT") {
+				console.error("The content of this track is not from YouTube.", track);
+				return;
+			}
+
+			let videoId = internalVideoId.substr(3);
+
+			if (this.player) {
+				this.show();
+				let param = {videoId: videoId, startSeconds: track.embed.begin, endSeconds: track.embed.end};
+				this.player.loadVideoById(param);
+			} else {
+				this.ytpcontainer = document.getElementById("ytpcontainer");
+				let ytpdiv = document.createElement("div");
+				ytpdiv.id = "ytplayer";
+				this.ytpcontainer.appendChild(ytpdiv);
+
+				let _this = this;
+				let param = {
+					height: '360',
+					width: '640',
+					videoId: videoId,
+					playerVars: {
+						start: track.embed.begin,
+						end: track.embed.end,
+						rel: 0,
+						showinfo: 0,
+						controls: 0,
+						modestbranding: 1,
+						autoplay: 0
+					},
+					events: {
+						'onReady': function (event) {
+							_this.player.playVideo();
+						},
+						'onStateChange': function (event) {
+							if (event.data == YT.PlayerState.PLAYING) {
+								_this.playingDetected = true;
+							}
+
+							if (event.data == YT.PlayerState.ENDED && _this.playingDetected) {
+								_this.playingDetected = false;
+								_this.hide();
+							}
+						}
+					}
+				};
+				this.player = new YT.Player("ytplayer", param);
+			}
+		},
+		stop: function () {
+			if (this.player) {
+				this.player.stopVideo();
+				this.hide();
+			}
+		},
+		hide: function () {
+			if (this.ytpcontainer.style.display == "none") return;
+
+			this.oldDisplay = this.ytpcontainer.style.display;
+			this.ytpcontainer.style.display = "none";
+		},
+		show: function () {
+			this.ytpcontainer.style.display = this.oldDisplay;
+		}
+	},
+	template: `<div id="ytpcontainer"></div>`
+});
+
 Vue.component("play-button", {
 	props: ["track"],
 	template: `<el-button v-on:click="$emit('play', track)" v-bind:id="track.id">{{ track.title }}</el-button>`
@@ -45,26 +122,54 @@ async function init() {
 	let app = new Vue({
 		el: "#app",
 		data: {
-			tracks: {},
-			categories: {},
-			archives: {},
+			idToTracks: {},
+			tracks: [],
 			archiveInfo: {},
 			favorites: [],
 			track: nullTrack,
 			volume: 0.5,
 			lastModified: null,
-			isFavorited: false
+			isFavorited: false,
+			selectedGrouping: "category",
+			filter: "none",
+			counter: {},
+			fromYouTube: false
 		},
 		methods: {
-			play: function (track) {
+			playButtonClicked: function (track) {
 				this.track = track;
 				let isFavorited = this.track.isFavorited;
 				this.isFavorited = isFavorited == undefined ? false : isFavorited;
 
-				this.$refs.player.play(track);
+				// 押した回数のカウント
+				if (this.counter[track.id] == undefined) {
+					this.counter[track.id] = 1;
+				} else {
+					++this.counter[track.id];
+				}
+				console.log("Counter", track.id, this.counter[track.id]);
+				window.localStorage.setItem("counter", JSON.stringify(this.counter));
+				++track.count;
+
+				if (track.path) {
+					this.$refs.ytplayer.stop();
+					this.$refs.player.play(track);
+					this.fromYouTube = false;
+				} else if (track.embed) {
+					this.$refs.player.stop();
+					this.$refs.ytplayer.play(track);
+					this.fromYouTube = true;
+				} else {
+					console.error("broken track: path or embed is required.", track);
+				}
 			},
 			stopButtonClicked: function () {
-				this.$refs.player.stop();
+				if (this.fromYouTube) {
+					this.$refs.ytplayer.stop();
+				} else {
+					this.$refs.player.stop();
+				}
+				
 			},
 			favoriteButtonClicked: function () {
 				let newState = !this.isFavorited;
@@ -84,6 +189,72 @@ async function init() {
 					});
 				}
 				window.localStorage.setItem("favorited", JSON.stringify(this.favorites));
+			},
+			volumeChanged: function (newvol) {
+				window.localStorage.setItem("volume", newvol);
+			}
+		},
+		computed: {
+			orderedTracks: function () {
+				let grouped = new Map();
+
+				for (let e of this.tracks) {
+					// filtering
+					switch (this.filter) {
+						case "favorite":
+							if (!e.isFavorited) continue;
+							break;
+						case "none":
+							break;
+						default:
+							console.error("unknown filtering method", filter);
+							break;
+					}
+
+					// grouping
+					let key = null;
+					switch (this.selectedGrouping) {
+						case "category":
+							key = e.tags[0];
+							break;
+						case "archive":
+							key = e.source != null ? getVideoIdByURL(e.source) : "unknown";
+							break;
+						case "count":
+							key = e.count;
+							break;
+						default:
+							console.error("unknown grouping method", selectedGrouping);
+							break;
+					}
+					if (!grouped.has(key)) grouped.set(key, []);
+					grouped.get(key).push(e);
+				}
+
+				// sort
+				let groupArray = null;
+				switch (this.selectedGrouping) {
+					case "count":
+						groupArray = Array.from(grouped);
+						groupArray.sort((a, b) => {
+							let ax = parseInt(a[0]);
+							let bx = parseInt(b[0]);
+							return -ax + bx;
+						});
+						return groupArray;
+						break;
+					case "archive":
+						groupArray = [];
+						for (let e of this.archiveOrder) {
+							groupArray.push([e, grouped.has(e) ? grouped.get(e) : []]);
+						}
+						console.log(groupArray);
+						break;
+					default:
+						groupArray = Array.from(grouped);
+						break;
+				}
+				return groupArray;
 			}
 		}
 	});
@@ -92,46 +263,24 @@ async function init() {
 	// データのロード
 	let response = await fetch("./contents.json");
 	let trackdata = await response.json();
-	let categories = {};
-	let archives = {};
 
-	// アーカイブ情報の日付によるソート
+	// アーカイブ情報を日付でソート
 	let archiveInfoArray = Array.from(new Map(Object.entries(trackdata.archiveInfo)));
 	archiveInfoArray.sort((a, b) => {
 		if (a[1].date < b[1].date) return 1;
 		if (a[1].date > b[1].date) return -1;
 		return 0;
 	});
+	let archiveOrder = [];
 	for (let e of archiveInfoArray) {
-		archives[e[0]] = [];
+		archiveOrder.push(e[0]);
 	}
-	archives["unknown"] = [];
 
-	let tracks = {};
-
-	// 個々ボタンをカテゴリ・アーカイブごとに振り分け
+	// id to track の object の生成とcountの初期化
+	let idToTracks = {}; // Map: id => track
 	for (let e of trackdata.tracks) {
-		// カテゴリごと
-		let category = e.tags[0];
-		if (category == "その他") continue;
-		if (categories[category] == undefined) {
-			categories[category] = [];
-		}
-		categories[category].push(e);
-
-		// アーカイブごと
-		let src = e.source;
-		let videoId = src != null ? getVideoIdByURL(src) : null;
-		if (videoId != null) {
-			if (archives[videoId] == undefined) {
-				archives[videoId] = [];
-			}
-			archives[videoId].push(e);
-		} else {
-			archives["unknown"].push(e);
-		}
-
-		tracks[e.id] = e;
+		idToTracks[e.id] = e;
+		e.count = 0;
 	}
 
 	// お気に入りの読み込み
@@ -142,19 +291,48 @@ async function init() {
 		let favorites = JSON.parse(favoritedJson);
 		app.favorites = favorites;
 
+		//for (let e of app.favorites) {
+
+		//	idToTracks[e].isFavorited = true;
+		//}
 		app.favorites.forEach((e, i) => {
-			if (tracks[e] != undefined) {
-				tracks[e].isFavorited = true;
-			} else {
+			if (idToTracks[e] == undefined) {
 				app.favorites.splice(i, 1);
+				console.info("unknown button id is found in favorites, deleted it.", e);
+				window.localStorage.setItem("favorited", JSON.stringify(app.favorites));
+			} else {
+				idToTracks[e].isFavorited = true;
 			}
 		});
 	}
 
-	app.tracks = tracks;
-	app.categories = categories;
-	app.archives = archives;
+	// volume の読み込み
+	let volume = window.localStorage.getItem("volume");
+	if (volume != null) {
+		app.volume = parseFloat(volume);
+	}
+
+	// 押した回数の読み込み
+	let counterJson = window.localStorage.getItem("counter");
+	if (counterJson != null) {
+		let counter = JSON.parse(counterJson); // button id => num(count)
+		app.counter = counter;
+
+		for (let e of Object.keys(app.counter)) {
+			if (idToTracks[e] == undefined) {
+				console.info("unknown button id is found in counter, deleted it.", e);
+				delete app.counter[e];
+				window.localStorage.setItem("counter", JSON.stringify(app.counter));
+			} else {
+				idToTracks[e].count = app.counter[e];
+			}
+		}
+	}
+
+	app.idToTracks = idToTracks;
+	app.tracks = trackdata.tracks;
 	app.archiveInfo = trackdata.archiveInfo;
+	app.archiveOrder = archiveOrder;
 	app.lastModified = new Date(response.headers.get("Last-Modified")).toLocaleString("ja-JP");
 	soundRoot = trackdata.soundRoot;
 }
