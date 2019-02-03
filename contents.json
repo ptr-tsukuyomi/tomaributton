@@ -1303,7 +1303,7 @@
       "id": "46"
     },
     {
-      "title": "忘れろビーム",
+      "title": "忘れろビーム1",
       "path": "47.mp3",
       "actor": [
         "兎鞠まり"
@@ -1314,6 +1314,19 @@
       "source": "https://youtu.be/zRptWnFy9g8?t=6m30s",
       "relatives": {},
       "id": "47"
+    },
+    {
+      "title": "忘れろビーム2",
+      "id": "710",
+      "path": "710.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=3305",
+      "relatives": {}
     },
     {
       "title": "みんみんみんみん",
@@ -2728,6 +2741,19 @@
       "source": "https://youtu.be/UrwUreqBE_g?t=1960",
       "relatives": {},
       "id": "243"
+    },
+    {
+      "title": "待って！2",
+      "id": "704",
+      "path": "704.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=1594",
+      "relatives": {}
     },
     {
       "title": "下からエイリアンみたいなの漏れてる",
@@ -9378,7 +9404,7 @@
       "relatives": {}
     },
     {
-      "title": "手をぶつける",
+      "title": "手をぶつける1",
       "id": "697",
       "path": "697.mp3",
       "actor": [
@@ -9391,6 +9417,19 @@
       "relatives": {}
     },
     {
+      "title": "手をぶつける2",
+      "id": "705",
+      "path": "705.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=1852",
+      "relatives": {}
+    },
+	{
       "title": "これ(Daisuke)をやるために3Dになったと言っても過言ではない",
       "id": "698",
       "path": "698.mp3",
@@ -9468,19 +9507,6 @@
       "source": "https://youtu.be/Ceao3p2mp8E?t=1570",
       "relatives": {}
     },
-    {
-      "title": "待って！2",
-      "id": "704",
-      "path": "704.mp3",
-      "actor": [
-        "兎鞠まり"
-      ],
-      "tags": [
-        "言葉"
-      ],
-      "source": "https://youtu.be/Ceao3p2mp8E?t=1594",
-      "relatives": {}
-    },
 	{
 		"title": "わおーん！[動画埋め込みテスト1]",
 		"id": "test1",
@@ -9492,6 +9518,71 @@
 			"begin": 4182,
 			"end": 4185
 		}
-	}
+	},
+    {
+      "title": "これ見えてないよね",
+      "id": "706",
+      "path": "706.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=1981",
+      "relatives": {}
+    },
+    {
+      "title": "あわてる",
+      "id": "707",
+      "path": "707.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=1985",
+      "relatives": {}
+    },
+    {
+      "title": "起立・気をつけ・礼",
+      "id": "708",
+      "path": "708.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=2456",
+      "relatives": {}
+    },
+    {
+      "title": "痴女おじさん",
+      "id": "709",
+      "path": "709.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=2985",
+      "relatives": {}
+    },
+    {
+      "title": "現実の女性について",
+      "id": "711",
+      "path": "711.mp3",
+      "actor": [
+        "兎鞠まり"
+      ],
+      "tags": [
+        "話"
+      ],
+      "source": "https://youtu.be/Ceao3p2mp8E?t=3530",
+      "relatives": {}
+    }
   ]
 }
