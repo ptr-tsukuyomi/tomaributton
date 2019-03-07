@@ -1,0 +1,15 @@
+a {
+	color: mediumvioletred;
+}
+
+	a:hover {
+		background-color: pink;
+	}
+
+* {
+	font-family: sans-serif;
+}
+
+#title {
+	color: deeppink;
+}
