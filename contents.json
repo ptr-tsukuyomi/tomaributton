@@ -311,6 +311,11 @@
       "url": "https://www.youtube.com/watch?v=XY0IRoPFiwI",
       "date": "2019/02/14"
 	},
+	"YT:cdWODy6oxGA": {
+      "title": "【VTuber】とまりと作業しよう！！！SDキャラの線画とか！！！【作業】",
+      "url": "https://www.youtube.com/watch?v=cdWODy6oxGA",
+      "date": "2019/03/05"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -10163,6 +10168,96 @@
         "言葉"
       ],
       "source": "https://youtu.be/XY0IRoPFiwI?t=1685"
+    },
+    {
+      "title": "作業するぞ",
+      "id": "775",
+      "path": "775.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=163"
+    },
+    {
+      "title": "ややまて！",
+      "id": "776",
+      "path": "776.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=566"
+    },
+    {
+      "title": "大人っぽい",
+      "id": "777",
+      "path": "777.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=591"
+    },
+    {
+      "title": "ふんぞり返ってるマグロナちゃんかわいいな… (小声)",
+      "id": "778",
+      "path": "778.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=873"
+    },
+    {
+      "title": "とまりはえらいぞ、もっと褒めてもいいぞ",
+      "id": "779",
+      "path": "779.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=984"
+    },
+    {
+      "title": "みどオニャてぇてぇ",
+      "id": "780",
+      "path": "780.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=1352"
+    },
+    {
+      "title": "な～、ゆあちゃん",
+      "id": "781",
+      "path": "781.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=1520"
+    },
+    {
+      "title": "うるせえ豆食わすぞ！",
+      "id": "782",
+      "path": "782.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=1556"
+    },
+    {
+      "title": "はい、種付け",
+      "id": "783",
+      "path": "783.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=1705"
+    },
+    {
+      "title": "手ぇプルプルしちゃって作業になんないじゃん！",
+      "id": "784",
+      "path": "784.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/cdWODy6oxGA?t=1815"
     }
   ]
 }
