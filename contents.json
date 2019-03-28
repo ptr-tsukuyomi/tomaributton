@@ -316,6 +316,11 @@
       "url": "https://www.youtube.com/watch?v=cdWODy6oxGA",
       "date": "2019/03/05"
 	},
+	"YT:HXDjHEZDJfM": {
+      "title": "【VTuber】あさ！！！ごはんたーべよ！【おはよおおおおお゛】",
+      "url": "https://www.youtube.com/watch?v=HXDjHEZDJfM",
+      "date": "2019/03/28"
+	},
     "SR": {
       "title": "SHOWROOM"
     }
@@ -10402,6 +10407,168 @@
         "言葉"
       ],
       "source": "https://youtu.be/cdWODy6oxGA?t=4117"
+    },
+    {
+      "title": "おはよう1",
+      "id": "801",
+      "path": "801.mp3",
+      "tags": [
+        "あいさつ"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=40"
+    },
+    {
+      "title": "ブリトー",
+      "id": "802",
+      "path": "802.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=174"
+    },
+    {
+      "title": "おにいちゃん呼びは恥ずかしい",
+      "id": "803",
+      "path": "803.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=594"
+    },
+    {
+      "title": "兄",
+      "id": "804",
+      "path": "804.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=594"
+    },
+    {
+      "title": "兄上",
+      "id": "805",
+      "path": "805.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=594"
+    },
+    {
+      "title": "お仕事いってらっしゃい、がんばってな～",
+      "id": "806",
+      "path": "806.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=671"
+    },
+    {
+      "title": "お兄ちゃん",
+      "id": "807",
+      "path": "807.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=537"
+    },
+    {
+      "title": "感動的だな。だが無意味だ。",
+      "id": "808",
+      "path": "808.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=710"
+    },
+    {
+      "title": "​どうした？変身しないのか？",
+      "id": "809",
+      "path": "809.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=759"
+    },
+    {
+      "title": "​みんな結構ロリコンだねぇ",
+      "id": "810",
+      "path": "810.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=841"
+    },
+    {
+      "title": "​ロリコンじゃなかったらここに辿りつかないんだよなー",
+      "id": "811",
+      "path": "811.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=888"
+    },
+    {
+      "title": "​正論！",
+      "id": "812",
+      "path": "812.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=888"
+    },
+    {
+      "title": "起きれてえらい",
+      "id": "813",
+      "path": "813.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=936"
+    },
+    {
+      "title": "麻呂眉の由来",
+      "id": "814",
+      "path": "814.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=942"
+    },
+    {
+      "title": "あいさつ4",
+      "id": "815",
+      "path": "815.mp3",
+      "tags": [
+        "あいさつ"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=951"
+    },
+    {
+      "title": "今日も一日がんばりましょう",
+      "id": "816",
+      "path": "816.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=1004"
+    },
+    {
+      "title": "がんばろうな～",
+      "id": "817",
+      "path": "817.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=1013"
+    },
+    {
+      "title": "とまりここで待ってるから",
+      "id": "818",
+      "path": "818.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HXDjHEZDJfM?t=1045"
     }
   ]
 }
