@@ -321,7 +321,12 @@
       "url": "https://www.youtube.com/watch?v=HXDjHEZDJfM",
       "date": "2019/03/28"
 	},
-    "SR": {
+	"YT:HFN7AiOQUmw": {
+      "title": "【３０分ぐらい予定】朝ごはんみんなでたべよい！【兎鞠まり】",
+      "url": "https://www.youtube.com/watch?v=HFN7AiOQUmw",
+      "date": "2019/04/22"
+	},
+	"SR": {
       "title": "SHOWROOM"
     }
   },
@@ -10569,6 +10574,105 @@
         "言葉"
       ],
       "source": "https://youtu.be/HXDjHEZDJfM?t=1045"
+    },
+    {
+      "title": "まな板チャンネル",
+      "id": "819",
+      "path": "819.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=178"
+    },
+    {
+      "title": "ぽんぽろぴん♪",
+      "id": "820",
+      "path": "820.mp3",
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=230"
+    },
+    {
+      "title": "🐓<ｺｹｺｯｺｰ",
+      "id": "821",
+      "path": "821.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=379"
+    },
+    {
+      "title": "はおー！",
+			"id": "822",
+      "path": "822.mp3",
+      "tags": [
+        "あいさつ"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=521"
+    },
+    {
+      "title": "限界兎鞠17",
+			"id": "823",
+      "path": "823.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=702"
+    },
+    {
+      "title": "ハンドクリーム",
+			"id": "824",
+      "path": "824.mp3",
+      "tags": [
+        "話"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=947"
+    },
+    {
+      "title": "と゛ほ゛し゛て゛ミ゛ュ゛ー゛ト゛す゛る゛の゛",
+			"id": "825",
+      "path": "825.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=1112"
+    },
+    {
+      "title": "赤城みりあちゃんにママみを感じる友達",
+			"id": "826",
+      "path": "826.mp3",
+      "tags": [
+        "話"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=1152"
+    },
+    {
+      "title": "お仕事行ってらっしゃい1",
+			"id": "827",
+      "path": "827.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=1223"
+    },
+    {
+      "title": "お出かけの準備はしたかい？",
+			"id": "828",
+      "path": "828.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=1696"
+    },
+    {
+      "title": "いってらっしゃい1",
+			"id": "829",
+      "path": "829.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/HFN7AiOQUmw?t=1807"
     }
   ]
 }
