@@ -326,6 +326,11 @@
       "url": "https://www.youtube.com/watch?v=HFN7AiOQUmw",
       "date": "2019/04/22"
 	},
+	"YT:NYmKS7XCqvg": {
+      "title": "【30分ぐらい！】ブルーベリーとレアチーズクリームサンドウィッチがスゴイ朝【兎鞠まり】",
+      "url": "https://www.youtube.com/watch?v=NYmKS7XCqvg",
+      "date": "2019/04/26"
+	},
 	"SR": {
       "title": "SHOWROOM"
     }
@@ -10594,7 +10599,7 @@
       "source": "https://youtu.be/HFN7AiOQUmw?t=230"
     },
     {
-      "title": "🐓<ｺｹｺｯｺｰ",
+      "title": "🐓<ｺｹｺｯｺｰ1",
       "id": "821",
       "path": "821.mp3",
       "tags": [
@@ -10673,6 +10678,60 @@
         "言葉"
       ],
       "source": "https://youtu.be/HFN7AiOQUmw?t=1807"
+    },
+    {
+      "title": "🐓<ｺｹｺｯｺｰ2",
+			"id": "830",
+      "path": "830.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/NYmKS7XCqvg?t=732"
+    },
+    {
+      "title": "よいしょ！4",
+			"id": "831",
+      "path": "831.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/NYmKS7XCqvg?t=879"
+    },
+    {
+      "title": "君のためにやろう",
+			"id": "832",
+      "path": "832.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/NYmKS7XCqvg?t=985"
+    },
+    {
+      "title": "ゴールデンウイーク予定あるの？",
+			"id": "833",
+      "path": "833.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/NYmKS7XCqvg?t=1707"
+    },
+    {
+      "title": "あんまり予定がなかったら兎鞠とあそぼ…？",
+			"id": "834",
+      "path": "834.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/NYmKS7XCqvg?t=1738"
+    },
+    {
+      "title": "いってきまーす！",
+			"id": "835",
+      "path": "835.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/NYmKS7XCqvg?t=1901"
     }
   ]
 }
