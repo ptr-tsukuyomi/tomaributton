@@ -1,71 +1,74 @@
 ﻿<!DOCTYPE html>
 <html lang="ja">
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-	<link rel="icon" href="./favicon.png" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+    <link rel="icon" href="./favicon.png" />
 
-	<title>兎鞠まりボタン</title>
+    <title>兎鞠まりボタン</title>
 
-	<!-- 開発用 -->
-<!--	<script src="https://unpkg.com/vue"></script>-->
-	<!-- 本番用 -->
-	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <!-- 開発用 -->
+    <!--	<script src="https://unpkg.com/vue"></script>-->
+    <!-- 本番用 -->
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 
-	<script src="https://unpkg.com/element-ui"></script>
+    <script src="https://unpkg.com/element-ui"></script>
+    <script src="./bundle.js"></script>
+    <script>
+        let { Tweet } = require("vue-tweet-embed");
+        Vue.component("Tweet", Tweet);
+    </script>
+    <script src="./index.js"></script>
+    <script src="https://www.youtube.com/player_api"></script>
 
-	<script src="./index.js"></script>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link rel="stylesheet" type="text/css" href="site.css" />
 
-	<script src="https://www.youtube.com/player_api"></script>
+    <style type="text/css">
+        .footer {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            height: auto;
+            width: auto;
+            margin: 0.5em;
+            background-color: snow;
+            border-color: lightpink;
+            border-width: medium;
+            border-style: solid;
+        }
 
-	<link rel="stylesheet" type="text/css" href="index.css" />
-	<link rel="stylesheet" type="text/css" href="site.css" />
+        .box26 {
+            position: relative;
+            margin: 2em 0;
+            padding: 0.5em 1em;
+            border: solid 3px lightpink;
+            border-radius: 8px;
+        }
 
-	<style type="text/css">
-		.footer {
-			position: fixed;
-			bottom: 0;
-			right: 0;
-			height: auto;
-			width: auto;
-			margin: 0.5em;
-			background-color: snow;
-			border-color: lightpink;
-			border-width: medium;
-			border-style: solid;
-		}
+            .box26 .box-title {
+                position: absolute;
+                display: inline-block;
+                top: -13px;
+                left: 10px;
+                padding: 0 9px;
+                line-height: 1;
+                font-size: 19px;
+                background: #FFF;
+                color: hotpink;
+                font-weight: bold;
+            }
 
-		.box26 {
-			position: relative;
-			margin: 2em 0;
-			padding: 0.5em 1em;
-			border: solid 3px lightpink;
-			border-radius: 8px;
-		}
+            .box26 p {
+                margin: 0;
+                padding: 0;
+            }
 
-		.box26 .box-title {
-			position: absolute;
-			display: inline-block;
-			top: -13px;
-			left: 10px;
-			padding: 0 9px;
-			line-height: 1;
-			font-size: 19px;
-			background: #FFF;
-			color: hotpink;
-			font-weight: bold;
-		}
-
-		.box26 p {
-			margin: 0;
-			padding: 0;
-		}
-
-		#ytpcontainer iframe {
-			width: 100%;
-			height: 100%;
-		}
-	</style>
+        #ytpcontainer iframe {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
 <body onload="init()">
 	<div style="padding: 0 0.5em;">
@@ -96,6 +99,7 @@
                         <h3>イベント情報</h3>
                         <div>
                             <h4>2019/08/12(月) コミックマーケット96</h4>
+                            <Tweet :id="'1159442773465899008'"></Tweet>
                             <a href="https://twitter.com/tomari_mari/status/1136916465410437120">4日目 南ア05b サークル 「SoftGummy」</a>(ご本人のサークル)
                             <a href="https://twitter.com/tomari_mari/status/1158652632048648193">サンプル1</a>
                             <a href="https://twitter.com/tomari_mari/status/1158653584868687873">裏表紙</a><br />
