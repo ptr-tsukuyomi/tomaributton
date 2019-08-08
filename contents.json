@@ -331,6 +331,11 @@
       "url": "https://www.youtube.com/watch?v=NYmKS7XCqvg",
       "date": "2019/04/26"
 	},
+	"YT:xMO2BHWgUu8": {
+      "title": "【神ゲー】DDRコンでペプシマンやろまいｗｗｗｗ【兎鞠まり】",
+      "url": "https://www.youtube.com/watch?v=xMO2BHWgUu8",
+      "date": "2019/07/09"
+	},
 	"SR": {
       "title": "SHOWROOM"
     }
@@ -3448,6 +3453,15 @@
       "source": "https://youtu.be/FB7baMR1zqA?t=888",
       "relatives": {},
       "id": "293"
+    },
+    {
+      "title": "笑い声 6",
+			"id": "845",
+      "path": "845.mp3",
+      "tags": [
+        "音"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=321"
     },
     {
       "title": "ふんふんふんふんふんふんじゃないんだよ",
@@ -10732,6 +10746,195 @@
         "言葉"
       ],
       "source": "https://youtu.be/NYmKS7XCqvg?t=1901"
+    },
+    {
+      "title": "こんばんはでございます",
+			"id": "836",
+      "path": "836.mp3",
+      "tags": [
+        "あいさつ"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=120"
+    },
+    {
+      "title": "ごめんねちょっとうるさいね",
+			"id": "837",
+      "path": "837.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=140"
+    },
+    {
+      "title": "なんとか持ちこたえて",
+			"id": "838",
+      "path": "838.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=143"
+    },
+    {
+      "title": "アームくん、大丈夫？",
+			"id": "839",
+      "path": "839.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=150"
+    },
+    {
+      "title": "はい！",
+			"id": "840",
+      "path": "840.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=155"
+    },
+    {
+      "title": "OKできたやったー！",
+			"id": "841",
+      "path": "841.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=208"
+    },
+    {
+      "title": "行くぞ！",
+			"id": "842",
+      "path": "842.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=213"
+    },
+    {
+      "title": "びっくりした！",
+			"id": "843",
+      "path": "843.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=257"
+    },
+    {
+      "title": "おじさん久々",
+			"id": "844",
+      "path": "844.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=316"
+    },
+    {
+      "title": "今から説明されるのでよく見ててください",
+			"id": "846",
+      "path": "846.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=334"
+    },
+    {
+      "title": "ね゛え゛え゛え゛",
+			"id": "847",
+      "path": "847.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=382"
+    },
+    {
+      "title": "ハイッ！",
+			"id": "848",
+      "path": "848.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=436"
+    },
+    {
+      "title": "ニャー！",
+			"id": "849",
+      "path": "849.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=437"
+    },
+    {
+      "title": "待って！！！",
+			"id": "850",
+      "path": "850.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=580"
+    },
+    {
+      "title": "勝てないんだがー？",
+			"id": "851",
+      "path": "851.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=768"
+    },
+    {
+      "title": "(体力が)持つわけないじゃないですか",
+			"id": "852",
+      "path": "852.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=1006"
+    },
+    {
+      "title": "1時間必ずやりきるという決意",
+			"id": "853",
+      "path": "853.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=1006"
+    },
+    {
+      "title": "あばばばばばばば",
+			"id": "854",
+      "path": "854.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=1220"
+    },
+    {
+      "title": "流石にそれはちょっと盛りすぎでしょ",
+			"id": "855",
+      "path": "855.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=1314"
+    },
+    {
+      "title": "あ～～～",
+			"id": "856",
+      "path": "856.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=1376"
+    },
+    {
+      "title": "お水うまっ",
+			"id": "857",
+      "path": "857.mp3",
+      "tags": [
+        "言葉"
+      ],
+      "source": "https://youtu.be/xMO2BHWgUu8?t=1385"
     }
   ]
 }
