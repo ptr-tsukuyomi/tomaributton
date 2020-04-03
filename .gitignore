@@ -7,3 +7,4 @@ favicon.*
 favorited.png
 unfavorited.png
 bundle.js
+/web.config
